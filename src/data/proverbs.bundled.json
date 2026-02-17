@@ -1,0 +1,3202 @@
+[
+  {
+    "id": "p0001",
+    "zh": "千里之行，始于足下",
+    "pinyin": "qiān lǐ zhī xíng, shǐ yú zú xià",
+    "en": "Literally: A journey of a thousand miles begins with a single step. True meaning: Great achievements start with small, initial actions.",
+    "origin": "This proverb emphasizes that great achievements start with small, initial actions. It encourages taking the first step despite the daunting nature of large goals.",
+    "source": "Dao De Jing by Laozi"
+  },
+  {
+    "id": "p0002",
+    "zh": "学而不思则罔，思而不学则殆",
+    "pinyin": "xué ér bù sī zé wǎng, sī ér bù xué zé dài",
+    "en": "Literally: Learning without thought is labor lost; thought without learning is perilous. True meaning: True understanding requires both study and critical reflection.",
+    "origin": "Confucius taught that true understanding requires both study and reflection. Knowledge without critical thinking leads nowhere, while thinking without learning is dangerous.",
+    "source": "The Analects of Confucius"
+  },
+  {
+    "id": "p0003",
+    "zh": "塞翁失马，焉知非福",
+    "pinyin": "sài wēng shī mǎ, yān zhī fēi fú",
+    "en": "Literally: The old man at the frontier loses his horse; how do we know it's not a blessing? True meaning: A blessing in disguise; fortunes change unpredictably.",
+    "origin": "From a story about an old man whose horse ran away, seemingly bad luck. But the horse returned with another horse, good luck. His son broke his leg riding it, bad luck. But this saved him from going to war. This teaches that fortunes change unpredictably.",
+    "source": "Huainanzi"
+  },
+  {
+    "id": "p0004",
+    "zh": "授人以鱼不如授人以渔",
+    "pinyin": "shòu rén yǐ yú bù rú shòu rén yǐ yú",
+    "en": "Literally: Give a man a fish and you feed him for a day; teach a man to fish and you feed him for a lifetime. True meaning: Teaching skills is more valuable than providing temporary solutions.",
+    "origin": "This proverb emphasizes the value of teaching skills over providing temporary solutions. Empowering others with knowledge is more beneficial than simple charity.",
+    "source": "Traditional Chinese wisdom"
+  },
+  {
+    "id": "p0005",
+    "zh": "三人行，必有我师焉",
+    "pinyin": "sān rén xíng, bì yǒu wǒ shī yān",
+    "en": "Literally: When three people walk together, one of them can be my teacher. True meaning: There is always someone from whom we can learn something valuable.",
+    "origin": "Confucius taught humility in learning. Among any group, there is always someone from whom we can learn something valuable.",
+    "source": "The Analects of Confucius"
+  },
+  {
+    "id": "p0006",
+    "zh": "水滴石穿",
+    "pinyin": "shuǐ dī shí chuān",
+    "en": "Literally: Constant dripping wears away the stone. True meaning: Persistence and consistency can overcome the hardest obstacles.",
+    "origin": "Persistence and consistency can overcome the hardest obstacles. Small, repeated efforts eventually lead to significant results.",
+    "source": "Han Dynasty writings"
+  },
+  {
+    "id": "p0007",
+    "zh": "知己知彼，百战不殆",
+    "pinyin": "zhī jǐ zhī bǐ, bǎi zhàn bù dài",
+    "en": "Literally: Know yourself and know your enemy, and you will never be defeated. True meaning: Understanding both sides thoroughly ensures success in any conflict.",
+    "origin": "Sun Tzu's famous military strategy principle emphasizes thorough understanding of both one's own capabilities and the opponent's strengths and weaknesses.",
+    "source": "The Art of War by Sun Tzu"
+  },
+  {
+    "id": "p0008",
+    "zh": "己所不欲，勿施于人",
+    "pinyin": "jǐ suǒ bù yù, wù shī yú rén",
+    "en": "Literally: Do not do to others what you do not want done to yourself. True meaning: The Golden Rule of empathy and treating others well.",
+    "origin": "This is Confucius's version of the Golden Rule, emphasizing empathy and treating others with the same consideration we wish for ourselves.",
+    "source": "The Analects of Confucius"
+  },
+  {
+    "id": "p0009",
+    "zh": "笨鸟先飞",
+    "pinyin": "bèn niǎo xiān fēi",
+    "en": "Literally: The slow bird should make an early start. True meaning: Those less talented must work harder and start earlier to succeed.",
+    "origin": "Those who are less talented must work harder and start earlier to succeed. Effort and diligence can compensate for natural disadvantages.",
+    "source": "Traditional Chinese proverb"
+  },
+  {
+    "id": "p0010",
+    "zh": "百闻不如一见",
+    "pinyin": "bǎi wén bù rú yī jiàn",
+    "en": "Literally: Seeing once is better than hearing a hundred times. True meaning: Direct experience is more valuable than secondhand knowledge.",
+    "origin": "Direct experience is more valuable than secondhand knowledge. This emphasizes the importance of personal observation and verification.",
+    "source": "Han Shu (Book of Han)"
+  },
+  {
+    "id": "p0011",
+    "zh": "读万卷书不如行万里路",
+    "pinyin": "dú wàn juàn shū bù rú xíng wàn lǐ lù",
+    "en": "Literally: Reading ten thousand books is not as useful as traveling ten thousand miles. True meaning: Real-world experience provides deeper understanding than pure academic study.",
+    "origin": "Practical experience and real-world exposure provide deeper understanding than pure academic study.",
+    "source": "Traditional Chinese wisdom"
+  },
+  {
+    "id": "p0012",
+    "zh": "失败乃成功之母",
+    "pinyin": "shī bài nǎi chéng gōng zhī mǔ",
+    "en": "Literally: Failure is the mother of success. True meaning: Learning from mistakes and setbacks leads to eventual success.",
+    "origin": "Setbacks and mistakes provide valuable lessons that lead to eventual success. Learning from failure is essential for achievement.",
+    "source": "Modern Chinese expression"
+  },
+  {
+    "id": "p0013",
+    "zh": "有志者事竟成",
+    "pinyin": "yǒu zhì zhě shì jìng chéng",
+    "en": "Literally: Where there is a will, there is a way. True meaning: Determination and strong resolve enable one to overcome obstacles.",
+    "origin": "Determination and strong resolve enable one to overcome obstacles and achieve goals.",
+    "source": "Book of the Later Han"
+  },
+  {
+    "id": "p0014",
+    "zh": "温故而知新",
+    "pinyin": "wēn gù ér zhī xīn",
+    "en": "Literally: Review the old to learn the new. True meaning: Revisiting past knowledge helps discover new insights and deeper understanding.",
+    "origin": "Confucius taught that revisiting past knowledge helps us discover new insights and deeper understanding.",
+    "source": "The Analects of Confucius"
+  },
+  {
+    "id": "p0015",
+    "zh": "熟能生巧",
+    "pinyin": "shú néng shēng qiǎo",
+    "en": "Literally: Practice makes perfect. True meaning: Repeated practice leads to mastery and skillful execution.",
+    "origin": "Repeated practice and familiarity with a task lead to mastery and skillful execution.",
+    "source": "Traditional Chinese proverb"
+  },
+  {
+    "id": "p0016",
+    "zh": "一箭双雕",
+    "pinyin": "yī jiàn shuāng diāo",
+    "en": "Literally: Kill two birds with one stone. True meaning: Accomplish two objectives with a single action efficiently.",
+    "origin": "Accomplish two objectives with a single action, demonstrating efficiency and clever strategy.",
+    "source": "Northern History chronicles"
+  },
+  {
+    "id": "p0017",
+    "zh": "树倒猴孙散",
+    "pinyin": "shù dǎo hóu sūn sàn",
+    "en": "Literally: When the tree falls, the monkeys scatter. True meaning: When a powerful person loses power, their followers quickly abandon them.",
+    "origin": "When a powerful person loses power, their followers quickly abandon them. Describes the fickleness of those who attach themselves to power rather than loyalty.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0018",
+    "zh": "站在风口，猪也会飞",
+    "pinyin": "zhàn zài fēng kǒu, zhū yě huì fēi",
+    "en": "Literally: Standing at the wind's mouth, even a pig can fly. True meaning: With favorable conditions and right timing, even unlikely success becomes possible.",
+    "origin": "With the right timing and favorable conditions, even unlikely success becomes possible. Emphasizes the importance of recognizing and seizing opportunities.",
+    "source": "Modern business saying"
+  },
+  {
+    "id": "p0019",
+    "zh": "亡羊补牢",
+    "pinyin": "wáng yáng bǔ láo",
+    "en": "Literally: Mend the fold after the sheep are lost. True meaning: It's never too late to fix a problem, even after damage has occurred.",
+    "origin": "It's never too late to fix a problem, even after damage has occurred. Taking corrective action is still valuable.",
+    "source": "Warring States texts"
+  },
+  {
+    "id": "p0020",
+    "zh": "井底之蛙",
+    "pinyin": "jǐng dǐ zhī wā",
+    "en": "Literally: A frog in a well. True meaning: Someone with a narrow, limited perspective unaware of the broader world.",
+    "origin": "Describes someone with a narrow, limited perspective who is unaware of the broader world beyond their small experience.",
+    "source": "Zhuangzi"
+  },
+  {
+    "id": "p0021",
+    "zh": "滴水之恩，当涌泉相报",
+    "pinyin": "dī shuǐ zhī ēn, dāng yǒng quán xiāng bào",
+    "en": "Literally: A drop of water in need shall be returned with a burst of spring. True meaning: Even small acts of kindness should be repaid generously.",
+    "origin": "Teaches gratitude: even small acts of kindness should be repaid generously.",
+    "source": "Traditional Chinese wisdom"
+  },
+  {
+    "id": "p0022",
+    "zh": "远水救不了近火",
+    "pinyin": "yuǎn shuǐ jiù bù liǎo jìn huǒ",
+    "en": "Literally: Distant water cannot quench a nearby fire. True meaning: Solutions must be timely and practical; help from far away may arrive too late.",
+    "origin": "Solutions must be timely and practical; help from far away may arrive too late to address urgent problems.",
+    "source": "Traditional proverb"
+  },
+  {
+    "id": "p0023",
+    "zh": "人非圣贤，孰能无过",
+    "pinyin": "rén fēi shèng xián, shú néng wú guò",
+    "en": "Literally: People are not sages; who can be without faults? True meaning: Human imperfection is natural; we should forgive mistakes.",
+    "origin": "Acknowledges human imperfection and encourages forgiveness and understanding of mistakes.",
+    "source": "Traditional wisdom"
+  },
+  {
+    "id": "p0024",
+    "zh": "良药苦口利于病",
+    "pinyin": "liáng yào kǔ kǒu lì yú bìng",
+    "en": "Literally: Good medicine tastes bitter but benefits the illness. True meaning: Difficult truths and harsh advice, though unpleasant, are often what we need most.",
+    "origin": "Difficult truths and harsh advice, though unpleasant, are often what we need most for improvement.",
+    "source": "Traditional proverb"
+  },
+  {
+    "id": "p0025",
+    "zh": "三思而后行",
+    "pinyin": "sān sī ér hòu xíng",
+    "en": "Literally: Think three times before acting. True meaning: Careful deliberation before action prevents mistakes and ensures wise decisions.",
+    "origin": "Encourages careful deliberation before taking action to avoid mistakes and ensure wise decisions.",
+    "source": "The Analects of Confucius"
+  },
+  {
+    "id": "p0026",
+    "zh": "一寸光阴一寸金",
+    "pinyin": "yī cùn guāng yīn yī cùn jīn",
+    "en": "Literally: An inch of time is an inch of gold. True meaning: Time is as precious as gold and should not be wasted.",
+    "origin": "Time is as precious as gold and should not be wasted. This emphasizes the value of time management.",
+    "source": "Tang Dynasty poetry"
+  },
+  {
+    "id": "p0027",
+    "zh": "书山有路勤为径",
+    "pinyin": "shū shān yǒu lù qín wéi jìng",
+    "en": "Literally: There is a path through the mountain of books, and diligence is the way. True meaning: Success in learning requires hard work; there are no shortcuts to knowledge.",
+    "origin": "Success in learning requires hard work and dedication. There are no shortcuts to knowledge.",
+    "source": "Traditional educational saying"
+  },
+  {
+    "id": "p0028",
+    "zh": "天下无难事，只怕有心人",
+    "pinyin": "tiān xià wú nán shì, zhǐ pà yǒu xīn rén",
+    "en": "Literally: Nothing in the world is difficult for one who sets their mind to it. True meaning: Determination and focused effort can overcome any challenge.",
+    "origin": "Determination and focused effort can overcome any challenge.",
+    "source": "Traditional proverb"
+  },
+  {
+    "id": "p0029",
+    "zh": "冰冻三尺，非一日之寒",
+    "pinyin": "bīng dòng sān chǐ, fēi yī rì zhī hán",
+    "en": "Literally: It takes more than one cold day for a river to freeze three feet deep. True meaning: Problems and achievements result from long-term accumulation, not overnight.",
+    "origin": "Problems and achievements don't happen overnight; they result from long-term accumulation of causes.",
+    "source": "Traditional wisdom"
+  },
+  {
+    "id": "p0030",
+    "zh": "一言既出，驷马难追",
+    "pinyin": "yī yán jì chū, sì mǎ nán zhuī",
+    "en": "Literally: A word spoken cannot be overtaken even by a team of four horses. True meaning: Once something is said, it cannot be taken back; be careful with words.",
+    "origin": "Once something is said, it cannot be taken back. This emphasizes being careful with one's words and keeping promises.",
+    "source": "The Analects of Confucius"
+  },
+  {
+    "id": "p0031",
+    "zh": "天生我材必有用",
+    "pinyin": "tiān shēng wǒ cái bì yǒu yòng",
+    "en": "Literally: Heaven has made us all for some useful purpose. True meaning: Everyone has inherent value and talents that will find their purpose.",
+    "origin": "Everyone has inherent value and talents that will find their purpose. This encourages self-confidence.",
+    "source": "Poem by Li Bai"
+  },
+  {
+    "id": "p0032",
+    "zh": "入乡随俗",
+    "pinyin": "rù xiāng suí sú",
+    "en": "Literally: When in Rome, do as the Romans do. True meaning: Adapt to local customs when in a new place to show respect and integrate successfully.",
+    "origin": "Adapt to local customs and practices when in a new place to show respect and integrate successfully.",
+    "source": "Traditional proverb"
+  },
+  {
+    "id": "p0033",
+    "zh": "不经一事，不长一智",
+    "pinyin": "bù jīng yī shì, bù zhǎng yī zhì",
+    "en": "Literally: Without experiencing one thing, you won't gain one piece of wisdom. True meaning: Experience is the best teacher; we learn through direct encounters.",
+    "origin": "Experience is the best teacher. We learn and grow through direct encounters with challenges.",
+    "source": "Traditional wisdom"
+  },
+  {
+    "id": "p0034",
+    "zh": "欲速则不达",
+    "pinyin": "yù sù zé bù dá",
+    "en": "Literally: Haste makes waste. True meaning: Rushing too quickly often leads to mistakes and failure; patience leads to success.",
+    "origin": "Rushing toward a goal too quickly often leads to mistakes and failure. Patience and proper pace lead to success.",
+    "source": "The Analects of Confucius"
+  },
+  {
+    "id": "p0035",
+    "zh": "患难见真情",
+    "pinyin": "huàn nàn jiàn zhēn qíng",
+    "en": "Literally: A friend in need is a friend indeed. True meaning: True friendship and character are revealed during difficult times.",
+    "origin": "True friendship and character are revealed during difficult times and adversity.",
+    "source": "Traditional proverb"
+  },
+  {
+    "id": "p0036",
+    "zh": "不入虎穴，焉得虎子",
+    "pinyin": "bù rù hǔ xué, yān dé hǔ zǐ",
+    "en": "Literally: If you don't enter the tiger's den, how can you catch the tiger cub? True meaning: Great rewards require taking risks and facing danger.",
+    "origin": "Great rewards require taking risks. Success often demands courage to face danger.",
+    "source": "Book of the Later Han"
+  },
+  {
+    "id": "p0037",
+    "zh": "纸上谈兵",
+    "pinyin": "zhǐ shàng tán bīng",
+    "en": "Literally: Discussing military strategy on paper. True meaning: Having only theoretical knowledge without practical experience.",
+    "origin": "From the story of Zhao Kuo, who studied military theory but had no practical experience, leading to disastrous defeat. Warns against relying solely on theoretical knowledge.",
+    "source": "Records of the Grand Historian"
+  },
+  {
+    "id": "p0038",
+    "zh": "明枪易躲，暗箭难防",
+    "pinyin": "míng qiāng yì duǒ, àn jiàn nán fáng",
+    "en": "Literally: Open attacks are easy to dodge; hidden arrows are hard to guard against. True meaning: Obvious threats can be dealt with, but deception is more dangerous.",
+    "origin": "Obvious threats can be dealt with, but deception and hidden dangers are more treacherous.",
+    "source": "Traditional proverb"
+  },
+  {
+    "id": "p0039",
+    "zh": "勤能补拙",
+    "pinyin": "qín néng bǔ zhuō",
+    "en": "Literally: Diligence can make up for lack of talent. True meaning: Hard work and persistence can overcome natural disadvantages.",
+    "origin": "Hard work and persistence can overcome natural disadvantages or lack of innate ability.",
+    "source": "Traditional wisdom"
+  },
+  {
+    "id": "p0040",
+    "zh": "一叶知秋",
+    "pinyin": "yī yè zhī qiū",
+    "en": "Literally: One falling leaf heralds the autumn. True meaning: Small signs can indicate larger trends; predict future from subtle clues.",
+    "origin": "Small signs can indicate larger trends. Observant people can predict future developments from subtle clues.",
+    "source": "Huainanzi"
+  },
+  {
+    "id": "p0041",
+    "zh": "人无远虑，必有近忧",
+    "pinyin": "rén wú yuǎn lǜ, bì yǒu jìn yōu",
+    "en": "Literally: Without foresight, one will have immediate worries. True meaning: Failing to plan for the future leads to problems in the present.",
+    "origin": "Failing to plan for the future leads to problems in the present. Strategic thinking prevents crises.",
+    "source": "The Analects of Confucius"
+  },
+  {
+    "id": "p0042",
+    "zh": "少壮不努力，老大徒伤悲",
+    "pinyin": "shào zhuàng bù nǔ lì, lǎo dà tú shāng bēi",
+    "en": "Literally: If you don't work hard in youth, you'll only grieve in old age. True meaning: Make the most of youth and energy; lost opportunities cannot be regained.",
+    "origin": "Encourages making the most of one's youth and energy, as opportunities lost in youth cannot be regained.",
+    "source": "Ancient folk poem"
+  },
+  {
+    "id": "p0043",
+    "zh": "听君一席话，胜读十年书",
+    "pinyin": "tīng jūn yī xí huà, shèng dú shí nián shū",
+    "en": "Literally: Listening to your words is better than reading ten years of books. True meaning: A single insightful conversation can provide more value than years of study.",
+    "origin": "A single insightful conversation can provide more value than years of study alone.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0044",
+    "zh": "宁为玉碎，不为瓦全",
+    "pinyin": "nìng wéi yù suì, bù wéi wǎ quán",
+    "en": "Literally: Better to be a shattered jade than an intact tile. True meaning: Better to die with honor than to live in disgrace.",
+    "origin": "Better to die with honor than to live in disgrace. This emphasizes integrity and dignity over mere survival.",
+    "source": "Book of Northern Qi"
+  },
+  {
+    "id": "p0045",
+    "zh": "前事不忘，后事之师",
+    "pinyin": "qián shì bù wàng, hòu shì zhī shī",
+    "en": "Literally: Remember past lessons to guide future actions. True meaning: Learning from history helps avoid repeating mistakes.",
+    "origin": "Learning from history and past experiences helps avoid repeating mistakes.",
+    "source": "Warring States texts"
+  },
+  {
+    "id": "p0046",
+    "zh": "磨刀不误砍柴工",
+    "pinyin": "mó dāo bù wù kǎn chái gōng",
+    "en": "Literally: Sharpening your axe won't delay your job of cutting wood. True meaning: Proper preparation saves time and improves efficiency in the long run.",
+    "origin": "Proper preparation and tool maintenance actually save time and improve efficiency in the long run.",
+    "source": "Traditional proverb"
+  },
+  {
+    "id": "p0047",
+    "zh": "众人拾柴火焰高",
+    "pinyin": "zhòng rén shí chái huǒ yàn gāo",
+    "en": "Literally: Many hands make light work. True meaning: Collective effort produces better results than individual work.",
+    "origin": "Collective effort produces better results than individual work. Teamwork amplifies achievements.",
+    "source": "Traditional saying"
+  },
+  {
+    "id": "p0048",
+    "zh": "瓜田不纳履，李下不整冠",
+    "pinyin": "guā tián bù nà lǚ, lǐ xià bù zhěng guān",
+    "en": "Literally: Don't adjust your shoes in a melon field, don't fix your hat under a plum tree. True meaning: Avoid situations that might create suspicion, even if you're innocent.",
+    "origin": "Avoid situations that might create suspicion or misunderstanding, even if you're innocent.",
+    "source": "Ancient poem"
+  },
+  {
+    "id": "p0049",
+    "zh": "凡事预则立，不预则废",
+    "pinyin": "fán shì yù zé lì, bù yù zé fèi",
+    "en": "Literally: Preparation leads to success; lack of preparation leads to failure. True meaning: Proper planning is essential for achieving any goal.",
+    "origin": "Proper planning is essential for achieving any goal.",
+    "source": "The Doctrine of the Mean"
+  },
+  {
+    "id": "p0050",
+    "zh": "当局者迷，旁观者清",
+    "pinyin": "dāng jú zhě mí, páng guān zhě qīng",
+    "en": "Literally: The player is confused; the bystander sees clearly. True meaning: Those involved may lack perspective, while outside observers see more objectively.",
+    "origin": "Those directly involved in a situation may lack perspective, while outside observers can see things more objectively.",
+    "source": "Old Book of Tang"
+  },
+  {
+    "id": "p0051",
+    "zh": "一箭双雕",
+    "pinyin": "yī jiàn shuāng diāo",
+    "en": "Literally: Kill two eagles with one arrow. True meaning: Achieve two aims at once.",
+    "origin": "Kill two birds with one stone.",
+    "source": "History of the Northern Dynasties"
+  },
+  {
+    "id": "p0052",
+    "zh": "破釜沉舟",
+    "pinyin": "pò fǔ chén zhōu",
+    "en": "Literally: Break the cauldrons and sink the boats. True meaning: Commit irrevocably to a course of action with no retreat.",
+    "origin": "General Xiang Yu ordered his troops to destroy their cooking vessels and boats after crossing a river, leaving no possibility of retreat. They could only advance and fight to win.",
+    "source": "Battle of Julu, Historical Records"
+  },
+  {
+    "id": "p0053",
+    "zh": "指鹿为马",
+    "pinyin": "zhǐ lù wéi mǎ",
+    "en": "Literally: Point to a deer and call it a horse. True meaning: Deliberately misrepresenting facts; abusing power to confuse right and wrong.",
+    "origin": "The eunuch Zhao Gao presented a deer to Emperor Qin Er Shi, calling it a horse. Those who contradicted him were later punished. Used to describe abuse of power to distort facts.",
+    "source": "Historical Records"
+  },
+  {
+    "id": "p0054",
+    "zh": "乐不思蜀",
+    "pinyin": "lè bù sī shǔ",
+    "en": "Literally: Happy and not thinking of Shu. True meaning: So content in comfort that one forgets one's homeland or duties.",
+    "origin": "After the kingdom of Shu fell, its last emperor Liu Shan lived comfortably in captivity and said he didn't miss Shu at all. Used to criticize those who forget their responsibilities while enjoying comfort.",
+    "source": "Historical Records"
+  },
+  {
+    "id": "p0055",
+    "zh": "朝三暮四",
+    "pinyin": "zhāo sān mù sì",
+    "en": "Literally: Three in the morning, four in the evening. True meaning: Being fickle or fooled by superficial changes.",
+    "origin": "A monkey keeper offered 3 acorns in morning and 4 at night. Monkeys protested, so he changed it to 4 in morning and 3 at night—they were delighted.",
+    "source": "Zhuangzi"
+  },
+  {
+    "id": "p0056",
+    "zh": "磨杵成针",
+    "pinyin": "mó chǔ chéng zhēn",
+    "en": "Literally: Grind an iron bar down to a fine needle. True meaning: With patience and perseverance, anything is possible.",
+    "origin": "Young Li Bai wanted to quit studying. An old woman told him she was grinding an iron bar into a needle. He realized that persistent effort can accomplish any task.",
+    "source": "Story of Li Bai"
+  },
+  {
+    "id": "p0057",
+    "zh": "守株待兔",
+    "pinyin": "shǒu zhū dài tù",
+    "en": "Literally: Guard a tree stump waiting for rabbits. True meaning: Waiting idly for luck instead of taking initiative.",
+    "origin": "A farmer saw a rabbit run into a tree stump and die. He abandoned his plow to wait by the stump for more rabbits, but none came. Used to criticize those who rely on chance instead of hard work.",
+    "source": "Han Feizi"
+  },
+  {
+    "id": "p0058",
+    "zh": "三人成虎",
+    "pinyin": "sān rén chéng hǔ",
+    "en": "Literally: Three men make a tiger. True meaning: Repeated lies become accepted as truth.",
+    "origin": "A minister asked the king: if one person says there's a tiger in the market, would you believe it? No. Two people? No. Three people? The king admitted he would. Used to show how repetition creates false belief.",
+    "source": "Strategies of the Warring States"
+  },
+  {
+    "id": "p0059",
+    "zh": "完璧归赵",
+    "pinyin": "wán bì guī zhào",
+    "en": "Literally: Return the jade intact to Zhao. True meaning: Successfully completing a difficult mission and returning what was entrusted.",
+    "origin": "Minister Lin Xiangru was sent to Qin with a priceless jade. When Qin refused to honor the trade, he cleverly retrieved it and returned it safely to Zhao.",
+    "source": "Historical Records"
+  },
+  {
+    "id": "p0060",
+    "zh": "刻舟求剑",
+    "pinyin": "kè zhōu qiú jiàn",
+    "en": "Literally: Carve a mark on the boat to find the sword. True meaning: Rigid thinking that ignores changed circumstances.",
+    "origin": "A man dropped his sword in the river and marked the boat. When the boat stopped, he dove where the mark was, not realizing the boat had moved.",
+    "source": "Lü's Spring and Autumn Annals"
+  },
+  {
+    "id": "p0061",
+    "zh": "火中取栗",
+    "pinyin": "huǒ zhōng qǔ lì",
+    "en": "Literally: Pull chestnuts from the fire. True meaning: Being used by others to do dangerous work for their benefit.",
+    "origin": "From La Fontaine's fable where a monkey tricks a cat into pulling chestnuts from the fire, burning its paws while the monkey eats the chestnuts.",
+    "source": "The Monkey and the Cat"
+  },
+  {
+    "id": "p0062",
+    "zh": "负荆请罪",
+    "pinyin": "fù jīng qǐng zuì",
+    "en": "Literally: Carry thorny branches and plead guilty. True meaning: Making a sincere apology and showing genuine remorse.",
+    "origin": "General Lian Po, realizing he had wronged the minister Lin Xiangru, stripped to the waist, carried thorny branches on his back, and went to apologize, ready to be whipped.",
+    "source": "Historical Records"
+  },
+  {
+    "id": "p0063",
+    "zh": "画龙点睛",
+    "pinyin": "huà lóng diǎn jīng",
+    "en": "Literally: Add eyes when painting a dragon. True meaning: Adding the finishing touch that brings something to life.",
+    "origin": "Painter Zhang Sengyou painted dragons without eyes. When he added them, the dragons flew away. Used for the critical detail that completes something perfectly.",
+    "source": "Tang Dynasty records"
+  },
+  {
+    "id": "p0064",
+    "zh": "狼吞虎咽",
+    "pinyin": "láng tūn hǔ yàn",
+    "en": "Literally: Swallow like a wolf and devour like a tiger. True meaning: Eating ravenously and messily.",
+    "origin": "Describes eating food quickly and greedily without manners.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0065",
+    "zh": "衣锦还乡",
+    "pinyin": "yī jǐn huán xiāng",
+    "en": "Literally: Wear embroidered clothing and return home. True meaning: Return to one's hometown in glory after achieving success.",
+    "origin": "Describes returning to one's humble origins after becoming successful and wealthy.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0066",
+    "zh": "易如反掌",
+    "pinyin": "yì rú fǎn zhǎng",
+    "en": "Literally: As easy as turning over one's palm. True meaning: Very easy to accomplish.",
+    "origin": "Something as simple as flipping your hand over.",
+    "source": "Mencius"
+  },
+  {
+    "id": "p0067",
+    "zh": "半途而废",
+    "pinyin": "bàn tú ér fèi",
+    "en": "Literally: Give up halfway. True meaning: Abandoning something before completion.",
+    "origin": "Mencius' mother cut her weaving to teach young Mencius that quitting studies midway is like cutting cloth half-done—all previous effort is wasted.",
+    "source": "Biographies of Exemplary Women"
+  },
+  {
+    "id": "p0068",
+    "zh": "虎背熊腰",
+    "pinyin": "hǔ bèi xióng yāo",
+    "en": "Literally: Tiger's back and bear's waist. True meaning: Describes someone big and burly.",
+    "origin": "Used to describe a man with a strong, muscular build.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0069",
+    "zh": "虎头虎脑",
+    "pinyin": "hǔ tóu hǔ nǎo",
+    "en": "Literally: Tiger head and tiger brain. True meaning: Describes a sturdy, innocent-looking child.",
+    "origin": "Used affectionately for children who look strong and simple-hearted.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0070",
+    "zh": "虎口余生",
+    "pinyin": "hǔ kǒu yú shēng",
+    "en": "Literally: Survive from a tiger's mouth. True meaning: Narrowly escape from death or extreme danger.",
+    "origin": "Having escaped from mortal peril, as if rescued from a tiger's jaws.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0071",
+    "zh": "狐假虎威",
+    "pinyin": "hú jiǎ hǔ wēi",
+    "en": "Literally: A fox borrowing a tiger's might. True meaning: Bullying others by flaunting powerful connections.",
+    "origin": "A fox walked with a tiger and animals fled. The fox thought they feared him, but they actually feared the tiger. Used for those who abuse borrowed authority.",
+    "source": "Strategies of the Warring States"
+  },
+  {
+    "id": "p0072",
+    "zh": "钻牛角尖",
+    "pinyin": "zuān niú jiǎo jiān",
+    "en": "Literally: Drill into the tip of an ox horn. True meaning: Being overly meticulous about trivial matters; splitting hairs.",
+    "origin": "Describes someone who wastes time on insignificant details or gets stuck on minor points.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0073",
+    "zh": "吹牛皮",
+    "pinyin": "chuī niú pí",
+    "en": "Literally: Blow a bull's hide. True meaning: Talking big; boasting and exaggerating.",
+    "origin": "Like inflating a bull's skin to make it seem bigger than it is.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0074",
+    "zh": "九牛一毛",
+    "pinyin": "jiǔ niú yī máo",
+    "en": "Literally: One hair from nine oxen. True meaning: A drop in the bucket; an insignificant amount.",
+    "origin": "One hair among nine oxen is negligible. Used to describe something tiny compared to the whole.",
+    "source": "Sima Qian's letter"
+  },
+  {
+    "id": "p0075",
+    "zh": "鸡飞蛋打",
+    "pinyin": "jī fēi dàn dǎ",
+    "en": "Literally: Chickens fly and eggs break. True meaning: Lose everything; come to nothing.",
+    "origin": "Both the chicken and the eggs are lost—nothing remains.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0076",
+    "zh": "鸡犬不宁",
+    "pinyin": "jī quǎn bù níng",
+    "en": "Literally: Even chickens and dogs have no peace. True meaning: Great turmoil and extreme disturbance.",
+    "origin": "So chaotic that even the domestic animals are disturbed.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0077",
+    "zh": "鸡毛蒜皮",
+    "pinyin": "jī máo suàn pí",
+    "en": "Literally: Chicken feathers and garlic skins. True meaning: Trivial and unimportant matters.",
+    "origin": "Things as worthless as chicken feathers and garlic peels.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0078",
+    "zh": "鸡蛋里挑骨头",
+    "pinyin": "jī dàn lǐ tiāo gǔ tóu",
+    "en": "Literally: Pick bones from an egg. True meaning: Looking for faults where there are none; being nitpicky.",
+    "origin": "Trying to find bones in an egg (which has none) describes unreasonable criticism.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0079",
+    "zh": "百闻不如一见",
+    "pinyin": "bǎi wén bù rú yī jiàn",
+    "en": "Literally: Hearing something a hundred times isn't better than seeing it once. True meaning: Direct experience is more valuable than hearsay.",
+    "origin": "Direct experience is more valuable than hearsay.",
+    "source": "Han Shu"
+  },
+  {
+    "id": "p0080",
+    "zh": "宁为玉碎不为瓦全",
+    "pinyin": "nìng wéi yù suì bù wéi wǎ quán",
+    "en": "Literally: Better to be a shattered jade than an intact tile. True meaning: Better to die with honor than to live in disgrace.",
+    "origin": "Better to die with honor than to live in disgrace.",
+    "source": "Book of Northern Qi"
+  },
+  {
+    "id": "p0081",
+    "zh": "言而无信",
+    "pinyin": "yán ér wú xìn",
+    "en": "Literally: Speaking yet without trust. True meaning: One who cannot be trusted despite what he says; deceitful.",
+    "origin": "One who cannot be trusted despite what he says; deceitful.",
+    "source": "The Analects"
+  },
+  {
+    "id": "p0082",
+    "zh": "言不由衷",
+    "pinyin": "yán bù yóu zhōng",
+    "en": "Literally: Speak not from the bosom. True meaning: To speak with one's tongue in one's cheek; insincere speech.",
+    "origin": "To speak with one's tongue in one's cheek; insincere speech.",
+    "source": "Traditional saying"
+  },
+  {
+    "id": "p0083",
+    "zh": "冰山一角",
+    "pinyin": "bīng shān yī jiǎo",
+    "en": "Literally: One corner of an ice mountain. True meaning: The tip of the iceberg; a small visible part of a larger problem.",
+    "origin": "The tip of the iceberg; a small visible part of a larger problem.",
+    "source": "Modern expression"
+  },
+  {
+    "id": "p0084",
+    "zh": "一日千秋",
+    "pinyin": "yī rì qiān qiū",
+    "en": "Literally: One day, a thousand autumns. True meaning: One day equals a thousand years; rapid changes or missing someone deeply.",
+    "origin": "One day equals a thousand years; rapid changes or missing someone deeply.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0085",
+    "zh": "一日千里",
+    "pinyin": "yī rì qiān lǐ",
+    "en": "Literally: One day, a thousand miles. True meaning: Rapid progress; traveling a thousand miles in a day.",
+    "origin": "Rapid progress; traveling a thousand miles in a day.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0086",
+    "zh": "一日三秋",
+    "pinyin": "yī rì sān qiū",
+    "en": "Literally: One day, three autumns. True meaning: Greatly missing someone; one day feels as long as three years.",
+    "origin": "Greatly missing someone; one day feels as long as three years.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0087",
+    "zh": "一帆风顺",
+    "pinyin": "yī fán fēng shùn",
+    "en": "Literally: Ship with a single sail, sailing smoothly. True meaning: Success without obstacles; smooth sailing.",
+    "origin": "Success without obstacles; smooth sailing.",
+    "source": "Traditional blessing"
+  },
+  {
+    "id": "p0088",
+    "zh": "二龙腾飞",
+    "pinyin": "èr lóng téng fēi",
+    "en": "Literally: Two dragons soaring into the sky. True meaning: Symbolizes great success and rising fortune.",
+    "origin": "Dragons represent power and prosperity in Chinese culture. Two dragons signify double success.",
+    "source": "Traditional blessing"
+  },
+  {
+    "id": "p0089",
+    "zh": "三阳开泰",
+    "pinyin": "sān yáng kāi tài",
+    "en": "Literally: Three rams bring prosperity. True meaning: A New Year blessing for good fortune and smooth beginnings.",
+    "origin": "Based on the I Ching hexagram representing spring's arrival. 'Yang' (羊 sheep) sounds like 'yang' (阳 positive energy), symbolizing renewal.",
+    "source": "Traditional blessing"
+  },
+  {
+    "id": "p0090",
+    "zh": "四季平安",
+    "pinyin": "sì jì píng ān",
+    "en": "Literally: Peace and safety throughout the four seasons. True meaning: Wishing for safety and wellbeing throughout the year.",
+    "origin": "Traditional blessing covering all seasons of the year.",
+    "source": "Traditional blessing"
+  },
+  {
+    "id": "p0091",
+    "zh": "五福临门",
+    "pinyin": "wǔ fú lín mén",
+    "en": "Literally: The five blessings arrive at the door. True meaning: Wishing for complete happiness in all aspects of life.",
+    "origin": "The five blessings from the Book of Documents: longevity, wealth, health, virtue, and natural death.",
+    "source": "Traditional blessing"
+  },
+  {
+    "id": "p0092",
+    "zh": "六六大顺",
+    "pinyin": "liù liù dà shùn",
+    "en": "Literally: Six-six great smoothness. True meaning: Everything proceeding smoothly and favorably.",
+    "origin": "The number six is considered auspicious. Double six amplifies the wish for smoothness in all endeavors.",
+    "source": "Traditional blessing"
+  },
+  {
+    "id": "p0093",
+    "zh": "七星高照",
+    "pinyin": "qī xīng gāo zhào",
+    "en": "Literally: The seven stars shine brightly above. True meaning: Blessing for good luck and protection from celestial forces.",
+    "origin": "The Big Dipper (Seven Stars) is revered in Chinese culture as a guiding constellation bringing fortune.",
+    "source": "Traditional blessing"
+  },
+  {
+    "id": "p0094",
+    "zh": "八方来财",
+    "pinyin": "bā fāng lái cái",
+    "en": "Literally: Wealth arrives from all eight directions. True meaning: Prosperity comes from every possible source.",
+    "origin": "The eight directions (四面八方) represent all possible sources of fortune and success.",
+    "source": "Traditional blessing"
+  },
+  {
+    "id": "p0095",
+    "zh": "九九同心",
+    "pinyin": "jiǔ jiǔ tóng xīn",
+    "en": "Literally: United in heart forever (nine-nine). True meaning: Eternal unity and longevity in relationships.",
+    "origin": "Double nine symbolizes longevity. Used in wedding blessings for eternal togetherness.",
+    "source": "Traditional blessing"
+  },
+  {
+    "id": "p0096",
+    "zh": "十全十美",
+    "pinyin": "shí quán shí měi",
+    "en": "Literally: Ten complete, ten beautiful. True meaning: Perfect in every way, lacking nothing.",
+    "origin": "Ten represents completeness in Chinese numerology. Perfect in all ten aspects.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0097",
+    "zh": "卧虎藏龙",
+    "pinyin": "wò hǔ cáng lóng",
+    "en": "Literally: Crouching tiger, hidden dragon. True meaning: Hidden talents and undiscovered brilliance among ordinary people.",
+    "origin": "Describes places or groups harboring exceptional people whose abilities are not yet revealed.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0098",
+    "zh": "实事求是",
+    "pinyin": "shí shì qiú shì",
+    "en": "Literally: Seek truth from facts. True meaning: Be practical and realistic, basing conclusions on evidence.",
+    "origin": "A core principle of Chinese philosophy emphasizing empirical investigation over speculation.",
+    "source": "Book of Han"
+  },
+  {
+    "id": "p0099",
+    "zh": "两虎相斗",
+    "pinyin": "liǎng hǔ xiāng dòu",
+    "en": "Literally: When two tigers fight. True meaning: When powerful rivals clash, someone inevitably gets hurt.",
+    "origin": "When two strong forces fight, both sides suffer casualties or a third party benefits.",
+    "source": "Strategies of the Warring States"
+  },
+  {
+    "id": "p0100",
+    "zh": "镜花水月",
+    "pinyin": "jìng huā shuǐ yuè",
+    "en": "Literally: Flower in a mirror, moon in water. True meaning: Something beautiful but illusory and unattainable.",
+    "origin": "Like a flower's reflection in a mirror or the moon's reflection in water—you can see it but can't grasp it.",
+    "source": "Buddhist teachings"
+  },
+  {
+    "id": "p0101",
+    "zh": "胸有成竹",
+    "pinyin": "xiōng yǒu chéng zhú",
+    "en": "Literally: Have a complete bamboo in one's chest. True meaning: Be fully prepared before taking action.",
+    "origin": "Song Dynasty painter Wen Tong told people that before painting bamboo, he would visualize the entire image clearly in his mind. His friend Su Shi praised this approach, and the phrase became used for anyone who is fully prepared before taking action.",
+    "source": "Su Shi’s writings"
+  },
+  {
+    "id": "p0102",
+    "zh": "愚公移山",
+    "pinyin": "yú gōng yí shān",
+    "en": "Literally: The Foolish Old Man removes the mountains. True meaning: Persistent effort overcomes any obstacle.",
+    "origin": "An old man decided to dig away two mountains blocking his path. When mocked, he said his sons and grandsons would continue the work forever. Moved by his determination, the gods removed the mountains. Teaches that persistent effort overcomes any obstacle.",
+    "source": "Liezi"
+  },
+  {
+    "id": "p0103",
+    "zh": "杯弓蛇影",
+    "pinyin": "bēi gōng shé yǐng",
+    "en": "Literally: Mistaking the bow's reflection for a snake. True meaning: Describes unfounded fear and paranoia.",
+    "origin": "A man thought he saw a snake in his wine cup and became ill from fear. His host showed him it was just the reflection of a bow hung on the wall. He immediately recovered.",
+    "source": "Jin Shu"
+  },
+  {
+    "id": "p0104",
+    "zh": "盲人摸象",
+    "pinyin": "máng rén mō xiàng",
+    "en": "Literally: Blind men touching an elephant. True meaning: Warns against drawing conclusions from partial understanding.",
+    "origin": "Several blind men each touched a different part of an elephant. One felt the trunk and said it's like a snake; another felt the leg and said it's like a tree. Each insisted their partial understanding was the complete truth.",
+    "source": "Buddhist parable"
+  },
+  {
+    "id": "p0105",
+    "zh": "望梅止渴",
+    "pinyin": "wàng méi zhǐ kě",
+    "en": "Literally: Quench thirst by thinking of plums. True meaning: Using imagination or false hope to console oneself.",
+    "origin": "Cao Cao's army was dying of thirst during a march. He told them a plum grove was ahead. Thinking of the sour plums made them salivate, giving them strength to continue until finding actual water.",
+    "source": "Wei Shu"
+  },
+  {
+    "id": "p0106",
+    "zh": "掩耳盗铃",
+    "pinyin": "yǎn ěr dào líng",
+    "en": "Literally: Cover one's ears while stealing a bell. True meaning: Describes self-deception and foolishly ignoring obvious consequences.",
+    "origin": "A thief wanted to steal a bell, but feared its sound would alert others. So he covered his own ears thinking that if he couldn't hear it, others couldn't either.",
+    "source": "Lü's Spring and Autumn Annals"
+  },
+  {
+    "id": "p0107",
+    "zh": "叶公好龙",
+    "pinyin": "yè gōng hào lóng",
+    "en": "Literally: Lord Ye's love of dragons. True meaning: Professing to like something but fearing it in reality.",
+    "origin": "Lord Ye filled his house with dragon decorations and claimed to adore dragons. When a real dragon heard this and visited him, Lord Ye fled in terror.",
+    "source": "Han Feizi"
+  },
+  {
+    "id": "p0108",
+    "zh": "买椟还珠",
+    "pinyin": "mǎi dú huán zhū",
+    "en": "Literally: Buy the case but return the pearl. True meaning: Focusing on superficial things while missing what's truly valuable.",
+    "origin": "A merchant made an ornate box for a pearl. A buyer loved the box so much he bought it, then returned the pearl. Used to criticize misplaced priorities.",
+    "source": "Han Feizi"
+  },
+  {
+    "id": "p0109",
+    "zh": "夸父追日",
+    "pinyin": "kuā fù zhuī rì",
+    "en": "Literally: Kuafu chasing the sun. True meaning: Pursuing an impossible goal with determination and never giving up.",
+    "origin": "The giant Kuafu raced against the sun to prove his strength. He ran until dying of thirst, and his walking staff became a peach grove to benefit future generations.",
+    "source": "Shan Hai Jing"
+  },
+  {
+    "id": "p0110",
+    "zh": "精卫填海",
+    "pinyin": "jīng wèi tián hǎi",
+    "en": "Literally: The bird Jingwei tries to fill the sea. True meaning: Indomitable determination to overcome seemingly impossible odds.",
+    "origin": "The daughter of Emperor Yan drowned in the Eastern Sea. Her spirit became the bird Jingwei, which drops pebbles and twigs into the sea every day, vowing to fill it up for revenge.",
+    "source": "Shan Hai Jing"
+  },
+  {
+    "id": "p0111",
+    "zh": "女娲补天",
+    "pinyin": "nǚ wā bǔ tiān",
+    "en": "Literally: Nüwa mends the sky. True meaning: Heroic efforts to solve catastrophic problems.",
+    "origin": "When the water god Gong Gong damaged the pillars of heaven in a rage, the sky cracked and floods devastated the land. The goddess Nüwa smelted five-colored stones to repair the heavens and saved humanity.",
+    "source": "Huainanzi"
+  },
+  {
+    "id": "p0112",
+    "zh": "大禹治水",
+    "pinyin": "dà yǔ zhì shuǐ",
+    "en": "Literally: Yu the Great tames the flood. True meaning: Teaches persistence, sacrifice, and finding the right approach.",
+    "origin": "When floods ravaged China, Yu spent 13 years digging channels to control the waters, passing his home three times without entering to see his family. His father had failed by building dams; Yu succeeded by working with nature's flow.",
+    "source": "Historical records"
+  },
+  {
+    "id": "p0113",
+    "zh": "后羿射日",
+    "pinyin": "hòu yì shè rì",
+    "en": "Literally: Hou Yi shoots down the suns. True meaning: Heroic deeds that benefit all.",
+    "origin": "In ancient myth, ten suns appeared in the sky scorching the earth. The archer Hou Yi shot down nine suns to save humanity.",
+    "source": "Shan Hai Jing"
+  },
+  {
+    "id": "p0114",
+    "zh": "嫦娥奔月",
+    "pinyin": "cháng é bēn yuè",
+    "en": "Literally: Chang'e flies to the moon. True meaning: Represents noble sacrifice and eternal separation.",
+    "origin": "Hou Yi's wife Chang'e swallowed the elixir of immortality to prevent a villain from stealing it, and floated to the moon where she lives eternally separated from her husband.",
+    "source": "Huainanzi"
+  },
+  {
+    "id": "p0115",
+    "zh": "竹林七贤",
+    "pinyin": "zhú lín qī xián",
+    "en": "Literally: The Seven Sages of the Bamboo Grove. True meaning: Represents intellectual freedom and friendship beyond worldly constraints.",
+    "origin": "During the chaotic Wei-Jin period, seven scholars gathered in a bamboo grove to escape political turmoil, drinking wine and discussing philosophy freely. Represents intellectual freedom and friendship beyond worldly constraints.",
+    "source": "Historical records of Wei-Jin period"
+  },
+  {
+    "id": "p0116",
+    "zh": "桃李满天下",
+    "pinyin": "táo lǐ mǎn tiān xià",
+    "en": "Literally: Peaches and plums fill the world. True meaning: A teacher's students succeed everywhere; widespread influence.",
+    "origin": "A minister planted peach and plum trees instead of speaking of his achievements. Later people said his students (peaches and plums) were everywhere. Used to praise teachers whose students succeed worldwide.",
+    "source": "Han Shu"
+  },
+  {
+    "id": "p0117",
+    "zh": "种瓜得瓜，种豆得豆",
+    "pinyin": "zhòng guā dé guā, zhòng dòu dé dòu",
+    "en": "Literally: Plant melons, get melons; plant beans, get beans. True meaning: One reaps what one sows; actions have corresponding consequences.",
+    "origin": "From agricultural wisdom teaching that one reaps what one sows. Used to emphasize that actions have corresponding consequences, both good and bad.",
+    "source": "Buddhist scripture"
+  },
+  {
+    "id": "p0118",
+    "zh": "此地无银三百两",
+    "pinyin": "cǐ dì wú yín sān bǎi liǎng",
+    "en": "Literally: No 300 taels of silver buried here. True meaning: A coverup that reveals the truth; clumsy attempt to hide something.",
+    "origin": "A man buried silver and posted a sign saying 'no silver here.' His neighbor stole it and wrote 'neighbor Wang didn't steal it.' Their denials revealed the truth. Used when someone's coverup exposes their guilt.",
+    "source": "Folk tale"
+  },
+  {
+    "id": "p0119",
+    "zh": "朝三暮四",
+    "pinyin": "zhāo sān mù sì",
+    "en": "Literally: Three in the morning, four in the evening. True meaning: Being fooled by superficial changes or being fickle.",
+    "origin": "A monkey keeper said he'd give 3 acorns in morning and 4 at night. Monkeys protested, so he offered 4 in morning and 3 at night—they were delighted. Describes being fooled by superficial changes or being fickle.",
+    "source": "Zhuangzi"
+  },
+  {
+    "id": "p0120",
+    "zh": "螳螂捕蝉，黄雀在后",
+    "pinyin": "táng láng bǔ chán, huáng què zài hòu",
+    "en": "Literally: The mantis stalks the cicada, unaware of the oriole behind. True meaning: Warns against focusing only on immediate gain while ignoring greater threats.",
+    "origin": "A boy told the king: a mantis was about to catch a cicada, not seeing the bird about to catch it, nor the boy with a slingshot. The king understood the danger.",
+    "source": "Shuo Yuan"
+  },
+  {
+    "id": "p0121",
+    "zh": "鹬蚌相争，渔翁得利",
+    "pinyin": "yù bàng xiāng zhēng, yú wēng dé lì",
+    "en": "Literally: When the snipe and clam fight, the fisherman benefits. True meaning: When two parties fight, a third party profits.",
+    "origin": "A snipe's beak got caught in a clam's shell. As they struggled, a fisherman caught both. Zhao's minister used this story to warn the king that if Zhao and Yan fought, Qin would conquer both.",
+    "source": "Strategies of the Warring States"
+  },
+  {
+    "id": "p0122",
+    "zh": "画蛇添足",
+    "pinyin": "huà shé tiān zú",
+    "en": "Literally: Draw a snake and add feet. True meaning: Making unnecessary additions that ruin something.",
+    "origin": "Men competed to draw a snake fastest for wine. The winner added feet to his snake while waiting. Another finished and said 'snakes have no feet' and took the wine.",
+    "source": "Strategies of the Warring States"
+  },
+  {
+    "id": "p0123",
+    "zh": "邯郸学步",
+    "pinyin": "hán dān xué bù",
+    "en": "Literally: Learning to walk in Handan. True meaning: Blindly imitating others and losing one's own strengths.",
+    "origin": "A youth from Yan went to Handan to learn their famous walking style, but forgot his own way of walking and had to crawl home.",
+    "source": "Zhuangzi"
+  },
+  {
+    "id": "p0124",
+    "zh": "刻舟求剑",
+    "pinyin": "kè zhōu qiú jiàn",
+    "en": "Literally: Carve a mark on the boat to find the sword. True meaning: Rigid thinking that ignores changed circumstances.",
+    "origin": "A man dropped his sword into a river and carved a mark on the boat. When the boat stopped, he dove where the mark was, not understanding the boat had moved.",
+    "source": "Lü's Spring and Autumn Annals"
+  },
+  {
+    "id": "p0125",
+    "zh": "滥竽充数",
+    "pinyin": "làn yú chōng shù",
+    "en": "Literally: Playing the yu poorly to make up the numbers. True meaning: Holding a position without real ability, hiding incompetence in the crowd.",
+    "origin": "A non-musician joined the king's 300-member orchestra. When the new king wanted solo performances, he fled.",
+    "source": "Han Feizi"
+  },
+  {
+    "id": "p0126",
+    "zh": "对牛弹琴",
+    "pinyin": "duì niú tán qín",
+    "en": "Literally: Play the lute to a cow. True meaning: Wasted effort on those who cannot appreciate it; communication must suit the audience.",
+    "origin": "A musician played elegant music to a cow, which kept eating grass. He then imitated cow sounds and the cow responded.",
+    "source": "Hongming Ji"
+  },
+  {
+    "id": "p0127",
+    "zh": "东施效颦",
+    "pinyin": "dōng shī xiào pín",
+    "en": "Literally: Dong Shi imitates a frown. True meaning: Blindly copying others without understanding context.",
+    "origin": "The beauty Xi Shi frowned due to heartache, looking lovely. The ugly Dong Shi imitated her frown, frightening people away.",
+    "source": "Zhuangzi"
+  },
+  {
+    "id": "p0128",
+    "zh": "郑人买履",
+    "pinyin": "zhèng rén mǎi lǚ",
+    "en": "Literally: The Zheng man buying shoes. True meaning: Rigid adherence to rules over common sense.",
+    "origin": "A man measured his foot at home but forgot the measurement. At the market, he refused to try on shoes, insisting on going home for the measurement. By the time he returned, the market closed.",
+    "source": "Han Feizi"
+  },
+  {
+    "id": "p0129",
+    "zh": "推心置腹",
+    "pinyin": "tuī xīn zhì fù",
+    "en": "Literally: Give one's heart to someone. True meaning: Be completely honest and sincere with others.",
+    "origin": "Treating someone with complete openness and trust.",
+    "source": "Han Shu"
+  },
+  {
+    "id": "p0130",
+    "zh": "肝胆相照",
+    "pinyin": "gān dǎn xiāng zhào",
+    "en": "Literally: Show liver and gall to each other. True meaning: Demonstrate utter devotion and complete loyalty.",
+    "origin": "Showing one's innermost self to demonstrate sincerity and trust.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0131",
+    "zh": "心心相印",
+    "pinyin": "xīn xīn xiāng yìn",
+    "en": "Literally: Hearts in perfect harmony like seals matching. True meaning: Having mutual understanding and spiritual connection.",
+    "origin": "Buddhist term originally describing spiritual transmission between master and disciple.",
+    "source": "Buddhist teachings"
+  },
+  {
+    "id": "p0132",
+    "zh": "志同道合",
+    "pinyin": "zhì tóng dào hé",
+    "en": "Literally: Share the same ambitions and follow the same path. True meaning: Being like-minded in goals and values.",
+    "origin": "People with similar aspirations naturally work together harmoniously.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0133",
+    "zh": "情同手足",
+    "pinyin": "qíng tóng shǒu zú",
+    "en": "Literally: Affection like hands and feet. True meaning: As close as brothers with deep emotional bond.",
+    "origin": "Hands and feet are inseparable parts of the body, symbolizing inseparable bonds.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0134",
+    "zh": "手足情深",
+    "pinyin": "shǒu zú qíng shēn",
+    "en": "Literally: Deep affection between hands and feet. True meaning: Close bond between siblings or dear friends.",
+    "origin": "Deep emotional connection between family or close friends.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0135",
+    "zh": "情深似海",
+    "pinyin": "qíng shēn sì hǎi",
+    "en": "Literally: Love as deep as the ocean. True meaning: Describing profound and boundless affection.",
+    "origin": "Emotion so deep it's like the unfathomable ocean.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0136",
+    "zh": "恩重如山",
+    "pinyin": "ēn zhòng rú shān",
+    "en": "Literally: Kindness as heavy as a mountain. True meaning: Owing a great debt of gratitude.",
+    "origin": "The favor received is as weighty and substantial as a mountain.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0137",
+    "zh": "知恩图报",
+    "pinyin": "zhī ēn tú bào",
+    "en": "Literally: Know kindness and seek to repay it. True meaning: Being grateful and actively seeking to repay favors.",
+    "origin": "Recognizing the kindness received and planning ways to reciprocate.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0138",
+    "zh": "饮水思源",
+    "pinyin": "yǐn shuǐ sī yuán",
+    "en": "Literally: When drinking water, think of the source. True meaning: Remember one's origins and those who helped.",
+    "origin": "Just as we should remember where our water comes from, we should remember our benefactors.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0139",
+    "zh": "吃水不忘挖井人",
+    "pinyin": "chī shuǐ bù wàng wā jǐng rén",
+    "en": "Literally: Don't forget those who dug the well. True meaning: Remember and appreciate those who helped you.",
+    "origin": "Remember and appreciate those who helped you.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0140",
+    "zh": "滴水之恩当涌泉相报",
+    "pinyin": "dī shuǐ zhī ēn dāng yǒng quán xiāng bào",
+    "en": "Literally: A drop of kindness should be repaid with a gushing spring. True meaning: Repay small favors generously.",
+    "origin": "Even the smallest kindness deserves abundant gratitude in return.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0141",
+    "zh": "结草衔环",
+    "pinyin": "jié cǎo xián huán",
+    "en": "Literally: Tie grass into knots and hold a ring in the mouth. True meaning: Repaying kindness even after death.",
+    "origin": "Two ancient tales: a ghost tied grass to trip an enemy who had harmed his daughter's savior, and a boy returned as a bird with a jade ring to repay his benefactor. Both show gratitude extending beyond death.",
+    "source": "Zuo Zhuan"
+  },
+  {
+    "id": "p0142",
+    "zh": "感恩戴德",
+    "pinyin": "gǎn ēn dài dé",
+    "en": "Literally: Feel grateful and wear virtue like a crown. True meaning: Being deeply grateful for kindness received.",
+    "origin": "Wearing virtue on one's head symbolizes holding gratitude in the highest esteem.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0143",
+    "zh": "知足常乐",
+    "pinyin": "zhī zú cháng lè",
+    "en": "Literally: Know satisfaction, always happy. True meaning: Those who are content with what they have find lasting happiness.",
+    "origin": "Contentment is the foundation of lasting joy.",
+    "source": "Dao De Jing"
+  },
+  {
+    "id": "p0144",
+    "zh": "知足不辱",
+    "pinyin": "zhī zú bù rǔ",
+    "en": "Literally: Know satisfaction, avoid humiliation. True meaning: Being content prevents disgrace from greed.",
+    "origin": "Those who know when they have enough won't suffer the humiliation that comes from excessive desire.",
+    "source": "Dao De Jing"
+  },
+  {
+    "id": "p0145",
+    "zh": "安贫乐道",
+    "pinyin": "ān pín lè dào",
+    "en": "Literally: Content with poverty and happy with the Way. True meaning: Finding joy in simple living and moral principles.",
+    "origin": "True happiness comes from following the right path, not from material wealth.",
+    "source": "The Analects"
+  },
+  {
+    "id": "p0146",
+    "zh": "淡泊名利",
+    "pinyin": "dàn bó míng lì",
+    "en": "Literally: Indifferent to fame and fortune. True meaning: Not pursuing wealth or status for inner peace.",
+    "origin": "Maintaining tranquility by not being attached to worldly gains.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0147",
+    "zh": "宠辱不惊",
+    "pinyin": "chǒng rǔ bù jīng",
+    "en": "Literally: Remain calm whether favored or humiliated. True meaning: Keeping composure in both good and bad times.",
+    "origin": "True equanimity means being unaffected by praise or criticism.",
+    "source": "Caigentan"
+  },
+  {
+    "id": "p0148",
+    "zh": "泰然处之",
+    "pinyin": "tài rán chǔ zhī",
+    "en": "Literally: Take things calmly and peacefully. True meaning: Remaining composed and unperturbed by events.",
+    "origin": "Handling situations with calm acceptance and composure.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0149",
+    "zh": "处变不惊",
+    "pinyin": "chǔ biàn bù jīng",
+    "en": "Literally: Remain calm in the face of change. True meaning: Staying composed during upheaval and uncertainty.",
+    "origin": "Not being disturbed by unexpected changes or turbulent situations.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0150",
+    "zh": "临危不惧",
+    "pinyin": "lín wēi bù jù",
+    "en": "Literally: Not fear when facing danger. True meaning: Remaining brave when threatened or in peril.",
+    "origin": "Showing courage and fearlessness in dangerous situations.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0151",
+    "zh": "临危不乱",
+    "pinyin": "lín wēi bù luàn",
+    "en": "Literally: Not panic when facing danger. True meaning: Keeping cool and organized in crisis.",
+    "origin": "Maintaining clarity and order of thought even in emergencies.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0152",
+    "zh": "从容不迫",
+    "pinyin": "cóng róng bù pò",
+    "en": "Literally: Calm and unhurried. True meaning: Being composed and taking things at a measured pace.",
+    "origin": "Acting with deliberation without being rushed or anxious.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0153",
+    "zh": "神色自若",
+    "pinyin": "shén sè zì ruò",
+    "en": "Literally: Looking calm and at ease naturally. True meaning: Having a composed demeanor regardless of circumstances.",
+    "origin": "Maintaining natural composure in one's expression and bearing.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0154",
+    "zh": "视死如归",
+    "pinyin": "shì sǐ rú guī",
+    "en": "Literally: Face death as if going home. True meaning: Being fearless in facing death for a just cause.",
+    "origin": "Accepting death as natural and unafraid, like returning home.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0155",
+    "zh": "舍生取义",
+    "pinyin": "shě shēng qǔ yì",
+    "en": "Literally: Give up life to obtain righteousness. True meaning: Sacrificing life for justice and moral principles.",
+    "origin": "Mencius taught that when forced to choose between life and righteousness, one should sacrifice life to preserve righteousness.",
+    "source": "Mencius"
+  },
+  {
+    "id": "p0156",
+    "zh": "杀身成仁",
+    "pinyin": "shā shēn chéng rén",
+    "en": "Literally: Sacrifice oneself to achieve benevolence. True meaning: Dying for a righteous cause to fulfill moral duty.",
+    "origin": "Confucius taught that the virtuous person would rather die than compromise on benevolence.",
+    "source": "The Analects"
+  },
+  {
+    "id": "p0157",
+    "zh": "大义凛然",
+    "pinyin": "dà yì lǐn rán",
+    "en": "Literally: Awe-inspiring righteousness. True meaning: Upholding justice fearlessly with commanding presence.",
+    "origin": "Displaying such strong moral conviction that it inspires awe and respect.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0158",
+    "zh": "义无反顾",
+    "pinyin": "yì wú fǎn gù",
+    "en": "Literally: Go forward without looking back when duty calls. True meaning: Acting righteously without hesitation or regret.",
+    "origin": "Once committed to the righteous path, one doesn't look back or waver.",
+    "source": "Han Shu"
+  },
+  {
+    "id": "p0159",
+    "zh": "当仁不让",
+    "pinyin": "dāng rén bù ràng",
+    "en": "Literally: Not yield when benevolence is at stake. True meaning: Taking responsibility without hesitation when moral duty calls.",
+    "origin": "Confucius taught that when it comes to benevolent action, one should not defer even to one's teacher.",
+    "source": "The Analects"
+  },
+  {
+    "id": "p0160",
+    "zh": "见义勇为",
+    "pinyin": "jiàn yì yǒng wéi",
+    "en": "Literally: Act bravely when seeing a just cause. True meaning: Stepping forward courageously when witnessing injustice.",
+    "origin": "Confucius said seeing what is right and not doing it is cowardice.",
+    "source": "The Analects"
+  },
+  {
+    "id": "p0161",
+    "zh": "路见不平拔刀相助",
+    "pinyin": "lù jiàn bù píng bá dāo xiāng zhù",
+    "en": "Literally: Draw one's sword to help when seeing injustice on the road. True meaning: Standing up against injustice wherever encountered.",
+    "origin": "The spirit of chivalry - helping strangers in need without hesitation.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0162",
+    "zh": "赴汤蹈火",
+    "pinyin": "fù tāng dǎo huǒ",
+    "en": "Literally: Go through boiling water and tread on fire. True meaning: Facing any danger without fear for a worthy cause.",
+    "origin": "Willing to endure extreme hardship and danger to fulfill one's mission.",
+    "source": "Han Shu"
+  },
+  {
+    "id": "p0163",
+    "zh": "出生入死",
+    "pinyin": "chū shēng rù sǐ",
+    "en": "Literally: Go out to life, enter into death. True meaning: Risking one's life repeatedly in dangerous situations.",
+    "origin": "Dao De Jing discusses those who constantly face mortal danger in their duties.",
+    "source": "Dao De Jing"
+  },
+  {
+    "id": "p0164",
+    "zh": "万死不辞",
+    "pinyin": "wàn sǐ bù cí",
+    "en": "Literally: Not refuse even if it costs a thousand deaths. True meaning: Willing to die repeatedly for a cause.",
+    "origin": "Expressing absolute dedication regardless of personal sacrifice.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0165",
+    "zh": "勇往直前",
+    "pinyin": "yǒng wǎng zhí qián",
+    "en": "Literally: March forward courageously in a straight line. True meaning: Moving ahead bravely without deviation.",
+    "origin": "Advancing with determination and courage, not turning aside for obstacles.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0166",
+    "zh": "一往无前",
+    "pinyin": "yī wǎng wú qián",
+    "en": "Literally: Advance without anything ahead to stop you. True meaning: Pushing forward fearlessly without obstacles.",
+    "origin": "Moving forward with such determination that nothing can stand in the way.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0167",
+    "zh": "勇冠三军",
+    "pinyin": "yǒng guàn sān jūn",
+    "en": "Literally: Bravest among all three armies. True meaning: Being unmatched in courage among all troops.",
+    "origin": "The three armies refer to all military forces; being first in bravery among them all.",
+    "source": "Historical Records"
+  },
+  {
+    "id": "p0168",
+    "zh": "英勇无敌",
+    "pinyin": "yīng yǒng wú dí",
+    "en": "Literally: Heroically invincible. True meaning: Being brave and unbeatable in battle.",
+    "origin": "Describing warriors whose courage makes them unconquerable.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0169",
+    "zh": "所向无敌",
+    "pinyin": "suǒ xiàng wú dí",
+    "en": "Literally: Invincible wherever one turns. True meaning: An unstoppable force in any direction.",
+    "origin": "No matter where this force is directed, no enemy can withstand it.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0170",
+    "zh": "战无不胜",
+    "pinyin": "zhàn wú bù shèng",
+    "en": "Literally: Win every battle without exception. True meaning: Being always victorious in warfare.",
+    "origin": "Never losing a single battle; perfect military record.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0171",
+    "zh": "攻无不克",
+    "pinyin": "gōng wú bù kè",
+    "en": "Literally: Succeed in every attack without fail. True meaning: Overcoming every obstacle and enemy.",
+    "origin": "Every offensive succeeds; no target is too difficult to conquer.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0172",
+    "zh": "百战百胜",
+    "pinyin": "bǎi zhàn bǎi shèng",
+    "en": "Literally: Win a hundred battles out of a hundred. True meaning: Always being victorious without a single defeat.",
+    "origin": "Perfect record of victories; never losing.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0173",
+    "zh": "兵不厌诈",
+    "pinyin": "bīng bù yàn zhà",
+    "en": "Literally: War does not tire of deception. True meaning: All is fair in warfare; deception is permissible.",
+    "origin": "Sun Tzu taught that military strategy should employ any effective tactic, including cunning and misdirection.",
+    "source": "Sun Tzu"
+  },
+  {
+    "id": "p0174",
+    "zh": "出奇制胜",
+    "pinyin": "chū qí zhì shèng",
+    "en": "Literally: Win by deploying surprise tactics. True meaning: Achieving victory through unexpected means.",
+    "origin": "Sun Tzu emphasized using unconventional strategies to catch enemies off guard.",
+    "source": "Sun Tzu"
+  },
+  {
+    "id": "p0175",
+    "zh": "声东击西",
+    "pinyin": "shēng dōng jī xī",
+    "en": "Literally: Make noise in the east and attack in the west. True meaning: Creating a diversion to mislead the enemy.",
+    "origin": "Classic military tactic of feinting in one direction while striking from another.",
+    "source": "Sun Tzu"
+  },
+  {
+    "id": "p0176",
+    "zh": "围魏救赵",
+    "pinyin": "wéi wèi jiù zhào",
+    "en": "Literally: Besiege Wei to rescue Zhao. True meaning: Relieve pressure by attacking the enemy's vulnerable point.",
+    "origin": "Relieve pressure by attacking the enemy's vulnerable point.",
+    "source": "Historical Records"
+  },
+  {
+    "id": "p0177",
+    "zh": "趁火打劫",
+    "pinyin": "chèn huǒ dǎ jié",
+    "en": "Literally: Loot a burning house. True meaning: Take advantage of someone's misfortune.",
+    "origin": "Take advantage of someone's misfortune.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0178",
+    "zh": "混水摸鱼",
+    "pinyin": "hùn shuǐ mō yú",
+    "en": "Literally: Fish in troubled waters. True meaning: Profit from confusion.",
+    "origin": "Profit from confusion.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0179",
+    "zh": "暗渡陈仓",
+    "pinyin": "àn dù chén cāng",
+    "en": "Literally: Secretly cross to Chencang. True meaning: Advance secretly while pretending otherwise.",
+    "origin": "Advance secretly while pretending otherwise.",
+    "source": "Historical Records"
+  },
+  {
+    "id": "p0180",
+    "zh": "明修栈道暗度陈仓",
+    "pinyin": "míng xiū zhàn dào àn dù chén cāng",
+    "en": "Literally: Openly repair the plank road but secretly cross to Chencang. True meaning: Deceive opponents with fake actions.",
+    "origin": "Deceive opponents with fake actions.",
+    "source": "Historical Records"
+  },
+  {
+    "id": "p0181",
+    "zh": "瞒天过海",
+    "pinyin": "mán tiān guò hǎi",
+    "en": "Literally: Deceive the heavens to cross the ocean. True meaning: Hide one's true intentions.",
+    "origin": "Hide one's true intentions.",
+    "source": "Thirty-Six Stratagems"
+  },
+  {
+    "id": "p0182",
+    "zh": "欲擒故纵",
+    "pinyin": "yù qín gù zòng",
+    "en": "Literally: Feign retreat to lure the enemy. True meaning: Let go to catch better.",
+    "origin": "Let go to catch better.",
+    "source": "Thirty-Six Stratagems"
+  },
+  {
+    "id": "p0183",
+    "zh": "抛砖引玉",
+    "pinyin": "pāo zhuān yǐn yù",
+    "en": "Literally: Throw a brick to attract jade. True meaning: Offer something modest to elicit something valuable.",
+    "origin": "Offer something modest to elicit something valuable.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0184",
+    "zh": "以逸待劳",
+    "pinyin": "yǐ yì dài láo",
+    "en": "Literally: Wait at ease for the exhausted enemy. True meaning: Conserve energy while the enemy tires.",
+    "origin": "Conserve energy while the enemy tires.",
+    "source": "Sun Tzu"
+  },
+  {
+    "id": "p0185",
+    "zh": "借刀杀人",
+    "pinyin": "jiè dāo shā rén",
+    "en": "Literally: Kill with a borrowed knife. True meaning: Use another to do one's dirty work.",
+    "origin": "Use another to do one's dirty work.",
+    "source": "Thirty-Six Stratagems"
+  },
+  {
+    "id": "p0186",
+    "zh": "隔岸观火",
+    "pinyin": "gé àn guān huǒ",
+    "en": "Literally: Watch a fire from across the river. True meaning: Observe others' troubles without intervening.",
+    "origin": "Observe others' troubles without intervening.",
+    "source": "Thirty-Six Stratagems"
+  },
+  {
+    "id": "p0187",
+    "zh": "笑里藏刀",
+    "pinyin": "xiào lǐ cáng dāo",
+    "en": "Literally: Hide a knife in a smile. True meaning: Appear friendly while harboring ill intent.",
+    "origin": "Appear friendly while harboring ill intent.",
+    "source": "Thirty-Six Stratagems"
+  },
+  {
+    "id": "p0188",
+    "zh": "李代桃僵",
+    "pinyin": "lǐ dài táo jiāng",
+    "en": "Literally: Plum dies in place of peach. True meaning: Sacrifice the unimportant to preserve the important.",
+    "origin": "Sacrifice the unimportant to preserve the important.",
+    "source": "Thirty-Six Stratagems"
+  },
+  {
+    "id": "p0189",
+    "zh": "顺手牵羊",
+    "pinyin": "shùn shǒu qiān yáng",
+    "en": "Literally: Lead away a goat in passing. True meaning: Take advantage of an opportunity.",
+    "origin": "Take advantage of an opportunity.",
+    "source": "Thirty-Six Stratagems"
+  },
+  {
+    "id": "p0190",
+    "zh": "打草惊蛇",
+    "pinyin": "dǎ cǎo jīng shé",
+    "en": "Literally: Beat the grass to startle the snake. True meaning: Inadvertently alert the enemy.",
+    "origin": "Inadvertently alert the enemy.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0191",
+    "zh": "借尸还魂",
+    "pinyin": "jiè shī huán hún",
+    "en": "Literally: Borrow a corpse to resurrect the soul. True meaning: Revive something using existing resources.",
+    "origin": "Revive something using existing resources.",
+    "source": "Thirty-Six Stratagems"
+  },
+  {
+    "id": "p0192",
+    "zh": "调虎离山",
+    "pinyin": "diào hǔ lí shān",
+    "en": "Literally: Lure the tiger away from the mountain. True meaning: Remove a powerful opponent from their stronghold.",
+    "origin": "Remove a powerful opponent from their stronghold.",
+    "source": "Thirty-Six Stratagems"
+  },
+  {
+    "id": "p0193",
+    "zh": "欲擒故纵",
+    "pinyin": "yù qín gù zòng",
+    "en": "Literally: To catch, first let go. True meaning: Give freedom to capture later.",
+    "origin": "Give freedom to capture later.",
+    "source": "Thirty-Six Stratagems"
+  },
+  {
+    "id": "p0194",
+    "zh": "金蝉脱壳",
+    "pinyin": "jīn chán tuō qiào",
+    "en": "Literally: The cicada sheds its shell. True meaning: Escape by misdirection.",
+    "origin": "Escape by misdirection.",
+    "source": "Thirty-Six Stratagems"
+  },
+  {
+    "id": "p0195",
+    "zh": "关门捉贼",
+    "pinyin": "guān mén zhuō zéi",
+    "en": "Literally: Shut the door to catch the thief. True meaning: Trap the enemy.",
+    "origin": "Trap the enemy.",
+    "source": "Thirty-Six Stratagems"
+  },
+  {
+    "id": "p0196",
+    "zh": "远交近攻",
+    "pinyin": "yuǎn jiāo jìn gōng",
+    "en": "Literally: Befriend distant states while attacking nearby ones. True meaning: Diplomatic strategy of making distant allies.",
+    "origin": "Diplomatic strategy of making distant allies.",
+    "source": "Thirty-Six Stratagems"
+  },
+  {
+    "id": "p0197",
+    "zh": "假道伐虢",
+    "pinyin": "jiǎ dào fá guó",
+    "en": "Literally: Borrow the path to conquer Guo. True meaning: Attack an ally of one's target.",
+    "origin": "Attack an ally of one's target.",
+    "source": "Thirty-Six Stratagems"
+  },
+  {
+    "id": "p0198",
+    "zh": "偷梁换柱",
+    "pinyin": "tōu liáng huàn zhù",
+    "en": "Literally: Steal the beams and replace the pillars. True meaning: Secretly replace with a substitute.",
+    "origin": "Secretly replace with a substitute.",
+    "source": "Thirty-Six Stratagems"
+  },
+  {
+    "id": "p0199",
+    "zh": "指桑骂槐",
+    "pinyin": "zhǐ sāng mà huái",
+    "en": "Literally: Point at the mulberry and curse the locust. True meaning: Criticize indirectly.",
+    "origin": "Criticize indirectly.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0200",
+    "zh": "假痴不癫",
+    "pinyin": "jiǎ chī bù diān",
+    "en": "Literally: Feign madness but stay alert. True meaning: Pretend to be foolish to deceive.",
+    "origin": "Pretend to be foolish to deceive.",
+    "source": "Thirty-Six Stratagems"
+  },
+  {
+    "id": "p0201",
+    "zh": "上屋抽梯",
+    "pinyin": "shàng wū chōu tī",
+    "en": "Literally: Remove the ladder after the enemy climbs up. True meaning: Lure someone into a trap.",
+    "origin": "Lure someone into a trap.",
+    "source": "Thirty-Six Stratagems"
+  },
+  {
+    "id": "p0202",
+    "zh": "树上开花",
+    "pinyin": "shù shàng kāi huā",
+    "en": "Literally: Make flowers bloom on a tree. True meaning: Create illusions to deceive.",
+    "origin": "Create illusions to deceive.",
+    "source": "Thirty-Six Stratagems"
+  },
+  {
+    "id": "p0203",
+    "zh": "反客为主",
+    "pinyin": "fǎn kè wéi zhǔ",
+    "en": "Literally: Turn from guest to host. True meaning: Seize control from a position of disadvantage.",
+    "origin": "Seize control from a position of disadvantage.",
+    "source": "Thirty-Six Stratagems"
+  },
+  {
+    "id": "p0204",
+    "zh": "美人计",
+    "pinyin": "měi rén jì",
+    "en": "Literally: The beauty trap. True meaning: Use seduction as a strategy.",
+    "origin": "Use seduction as a strategy.",
+    "source": "Thirty-Six Stratagems"
+  },
+  {
+    "id": "p0205",
+    "zh": "空城计",
+    "pinyin": "kōng chéng jì",
+    "en": "Literally: The empty city stratagem. True meaning: Appear weak when strong to fool the enemy.",
+    "origin": "Appear weak when strong to fool the enemy.",
+    "source": "Romance of the Three Kingdoms"
+  },
+  {
+    "id": "p0206",
+    "zh": "反间计",
+    "pinyin": "fǎn jiàn jì",
+    "en": "Literally: Sow discord among enemies. True meaning: Use the enemy's spies against them.",
+    "origin": "Use the enemy's spies against them.",
+    "source": "Thirty-Six Stratagems"
+  },
+  {
+    "id": "p0207",
+    "zh": "苦肉计",
+    "pinyin": "kǔ ròu jì",
+    "en": "Literally: The self-torture stratagem. True meaning: Harm oneself to gain the enemy's trust.",
+    "origin": "Harm oneself to gain the enemy's trust.",
+    "source": "Thirty-Six Stratagems"
+  },
+  {
+    "id": "p0208",
+    "zh": "连环计",
+    "pinyin": "lián huán jì",
+    "en": "Literally: The linked stratagems. True meaning: Use multiple strategies in sequence.",
+    "origin": "Use multiple strategies in sequence.",
+    "source": "Thirty-Six Stratagems"
+  },
+  {
+    "id": "p0209",
+    "zh": "走为上策",
+    "pinyin": "zǒu wéi shàng cè",
+    "en": "Literally: Retreat is the best strategy. True meaning: When all else fails, retreat.",
+    "origin": "When all else fails, retreat.",
+    "source": "Thirty-Six Stratagems"
+  },
+  {
+    "id": "p0210",
+    "zh": "三十六计走为上计",
+    "pinyin": "sān shí liù jì zǒu wéi shàng jì",
+    "en": "Literally: Of the thirty-six stratagems, fleeing is best. True meaning: Sometimes retreat is the wisest choice.",
+    "origin": "Sometimes retreat is the wisest choice.",
+    "source": "Thirty-Six Stratagems"
+  },
+  {
+    "id": "p0211",
+    "zh": "运筹帷幄",
+    "pinyin": "yùn chóu wéi wò",
+    "en": "Literally: Plan strategies within a tent. True meaning: Mastermind military strategy.",
+    "origin": "Mastermind military strategy.",
+    "source": "Historical Records"
+  },
+  {
+    "id": "p0212",
+    "zh": "决胜千里",
+    "pinyin": "jué shèng qiān lǐ",
+    "en": "Literally: Win a thousand miles away. True meaning: Achieve victory through strategic planning.",
+    "origin": "Achieve victory through strategic planning.",
+    "source": "Historical Records"
+  },
+  {
+    "id": "p0213",
+    "zh": "料事如神",
+    "pinyin": "liào shì rú shén",
+    "en": "Literally: Predict events with divine accuracy. True meaning: Extraordinary foresight.",
+    "origin": "Extraordinary foresight.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0214",
+    "zh": "先见之明",
+    "pinyin": "xiān jiàn zhī míng",
+    "en": "Literally: Foresight; prescience. True meaning: Ability to predict future events.",
+    "origin": "Ability to predict future events.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0215",
+    "zh": "深谋远虑",
+    "pinyin": "shēn móu yuǎn lǜ",
+    "en": "Literally: Think deeply and plan carefully. True meaning: Far-sighted planning.",
+    "origin": "Far-sighted planning.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0216",
+    "zh": "老谋深算",
+    "pinyin": "lǎo móu shēn suàn",
+    "en": "Literally: Experienced and calculating. True meaning: Shrewd and strategic.",
+    "origin": "Shrewd and strategic.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0217",
+    "zh": "足智多谋",
+    "pinyin": "zú zhì duō móu",
+    "en": "Literally: Wise and full of strategems. True meaning: Resourceful and clever.",
+    "origin": "Resourceful and clever.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0218",
+    "zh": "神机妙算",
+    "pinyin": "shén jī miào suàn",
+    "en": "Literally: Divine strategy and wonderful plans. True meaning: Brilliant tactical mind.",
+    "origin": "Brilliant tactical mind.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0219",
+    "zh": "锦囊妙计",
+    "pinyin": "jǐn náng miào jì",
+    "en": "Literally: Brilliant plan in a brocade bag. True meaning: A clever stratagem kept secret.",
+    "origin": "A clever stratagem kept secret.",
+    "source": "Romance of the Three Kingdoms"
+  },
+  {
+    "id": "p0220",
+    "zh": "智者千虑必有一失",
+    "pinyin": "zhì zhě qiān lǜ bì yǒu yī shī",
+    "en": "Literally: Even the wise make mistakes. True meaning: Nobody is perfect.",
+    "origin": "Nobody is perfect.",
+    "source": "Historical Records"
+  },
+  {
+    "id": "p0221",
+    "zh": "愚者千虑必有一得",
+    "pinyin": "yú zhě qiān lǜ bì yǒu yī dé",
+    "en": "Literally: Even a fool sometimes has a good idea. True meaning: Everyone can contribute something.",
+    "origin": "Everyone can contribute something.",
+    "source": "Historical Records"
+  },
+  {
+    "id": "p0222",
+    "zh": "智者见智仁者见仁",
+    "pinyin": "zhì zhě jiàn zhì rén zhě jiàn rén",
+    "en": "Literally: The wise see wisdom, the benevolent see benevolence. True meaning: Different perspectives on the same thing.",
+    "origin": "Different perspectives on the same thing.",
+    "source": "Book of Changes"
+  },
+  {
+    "id": "p0223",
+    "zh": "见仁见智",
+    "pinyin": "jiàn rén jiàn zhì",
+    "en": "Literally: Different people have different views. True meaning: Matter of perspective.",
+    "origin": "Matter of perspective.",
+    "source": "Book of Changes"
+  },
+  {
+    "id": "p0224",
+    "zh": "仁者乐山智者乐水",
+    "pinyin": "rén zhě lè shān zhì zhě lè shuǐ",
+    "en": "Literally: The benevolent love mountains, the wise love water. True meaning: Different temperaments prefer different things.",
+    "origin": "Different temperaments prefer different things.",
+    "source": "The Analects"
+  },
+  {
+    "id": "p0225",
+    "zh": "兼听则明偏信则暗",
+    "pinyin": "jiān tīng zé míng piān xìn zé àn",
+    "en": "Literally: Listen to all sides and be enlightened; believe one side and be in the dark. True meaning: Consider multiple perspectives.",
+    "origin": "Consider multiple perspectives.",
+    "source": "Zizhi Tongjian"
+  },
+  {
+    "id": "p0226",
+    "zh": "博学多才",
+    "pinyin": "bó xué duō cái",
+    "en": "Literally: Learned and talented. True meaning: Knowledgeable and skilled.",
+    "origin": "Knowledgeable and skilled.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0227",
+    "zh": "博古通今",
+    "pinyin": "bó gǔ tōng jīn",
+    "en": "Literally: Know the past and present. True meaning: Well-versed in history and current affairs.",
+    "origin": "Well-versed in history and current affairs.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0228",
+    "zh": "学富五车",
+    "pinyin": "xué fù wǔ chē",
+    "en": "Literally: Learning fills five carts. True meaning: Extremely knowledgeable.",
+    "origin": "Extremely knowledgeable.",
+    "source": "Zhuangzi"
+  },
+  {
+    "id": "p0229",
+    "zh": "才高八斗",
+    "pinyin": "cái gāo bā dǒu",
+    "en": "Literally: Talent as high as eight bushels. True meaning: Exceptionally talented.",
+    "origin": "Exceptionally talented.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0230",
+    "zh": "满腹经纶",
+    "pinyin": "mǎn fù jīng lún",
+    "en": "Literally: Full of learning and insight. True meaning: Rich in knowledge and strategy.",
+    "origin": "Rich in knowledge and strategy.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0231",
+    "zh": "学贯中西",
+    "pinyin": "xué guàn zhōng xī",
+    "en": "Literally: Learned in both Chinese and Western knowledge. True meaning: Well-versed in diverse fields.",
+    "origin": "Well-versed in diverse fields.",
+    "source": "Modern expression"
+  },
+  {
+    "id": "p0232",
+    "zh": "融会贯通",
+    "pinyin": "róng huì guàn tōng",
+    "en": "Literally: Achieve a thorough understanding. True meaning: Integrate knowledge comprehensively.",
+    "origin": "Integrate knowledge comprehensively.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0233",
+    "zh": "举一反三",
+    "pinyin": "jǔ yī fǎn sān",
+    "en": "Literally: Infer three from one instance. True meaning: Learn by analogy.",
+    "origin": "Learn by analogy.",
+    "source": "The Analects"
+  },
+  {
+    "id": "p0234",
+    "zh": "触类旁通",
+    "pinyin": "chù lèi páng tōng",
+    "en": "Literally: Comprehend by analogy. True meaning: Apply knowledge from one area to another.",
+    "origin": "Apply knowledge from one area to another.",
+    "source": "Book of Changes"
+  },
+  {
+    "id": "p0235",
+    "zh": "闻一知十",
+    "pinyin": "wén yī zhī shí",
+    "en": "Literally: Know ten from hearing one. True meaning: Quick to understand.",
+    "origin": "Quick to understand.",
+    "source": "The Analects"
+  },
+  {
+    "id": "p0236",
+    "zh": "心领神会",
+    "pinyin": "xīn lǐng shén huì",
+    "en": "Literally: Understand tacitly. True meaning: Grasp intuitively.",
+    "origin": "Grasp intuitively.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0237",
+    "zh": "心照不宣",
+    "pinyin": "xīn zhào bù xuān",
+    "en": "Literally: Tacit understanding without words. True meaning: Mutual understanding.",
+    "origin": "Mutual understanding.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0238",
+    "zh": "心有灵犀一点通",
+    "pinyin": "xīn yǒu líng xī yī diǎn tōng",
+    "en": "Literally: Hearts connected by the magical rhinoceros horn. True meaning: Telepathic understanding between kindred spirits.",
+    "origin": "Telepathic understanding between kindred spirits.",
+    "source": "Tang poetry"
+  },
+  {
+    "id": "p0239",
+    "zh": "一点就通",
+    "pinyin": "yī diǎn jiù tōng",
+    "en": "Literally: Understand at the slightest hint. True meaning: Quick learner.",
+    "origin": "Quick learner.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0240",
+    "zh": "冰雪聪明",
+    "pinyin": "bīng xuě cōng míng",
+    "en": "Literally: As clever as ice and snow. True meaning: Extremely intelligent.",
+    "origin": "Extremely intelligent.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0241",
+    "zh": "聪明伶俐",
+    "pinyin": "cōng míng líng lì",
+    "en": "Literally: Bright and clever. True meaning: Intelligent and quick-witted.",
+    "origin": "Intelligent and quick-witted.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0242",
+    "zh": "机智灵活",
+    "pinyin": "jī zhì líng huó",
+    "en": "Literally: Quick-witted and flexible. True meaning: Resourceful and adaptable.",
+    "origin": "Resourceful and adaptable.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0243",
+    "zh": "耳聪目明",
+    "pinyin": "ěr cōng mù míng",
+    "en": "Literally: Sharp ears and clear eyes. True meaning: Alert and perceptive.",
+    "origin": "Alert and perceptive.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0244",
+    "zh": "心明眼亮",
+    "pinyin": "xīn míng yǎn liàng",
+    "en": "Literally: Clear mind and bright eyes. True meaning: Perceptive and discerning.",
+    "origin": "Perceptive and discerning.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0245",
+    "zh": "明察秋毫",
+    "pinyin": "míng chá qiū háo",
+    "en": "Literally: See the tip of an autumn hair. True meaning: Extremely observant.",
+    "origin": "Extremely observant.",
+    "source": "Mencius"
+  },
+  {
+    "id": "p0246",
+    "zh": "洞察秋毫",
+    "pinyin": "dòng chá qiū háo",
+    "en": "Literally: Perceive the tiniest detail. True meaning: Sharp insight.",
+    "origin": "Sharp insight.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0247",
+    "zh": "明辨是非",
+    "pinyin": "míng biàn shì fēi",
+    "en": "Literally: Distinguish right from wrong. True meaning: Have clear moral judgment.",
+    "origin": "Have clear moral judgment.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0248",
+    "zh": "是非分明",
+    "pinyin": "shì fēi fēn míng",
+    "en": "Literally: Clear about right and wrong. True meaning: Firm moral principles.",
+    "origin": "Firm moral principles.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0249",
+    "zh": "黑白分明",
+    "pinyin": "hēi bái fēn míng",
+    "en": "Literally: Distinguish black from white. True meaning: See things clearly.",
+    "origin": "See things clearly.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0250",
+    "zh": "泾渭分明",
+    "pinyin": "jīng wèi fēn míng",
+    "en": "Literally: As clear as the Jing and Wei rivers. True meaning: Clear distinction between good and bad.",
+    "origin": "Clear distinction between good and bad.",
+    "source": "Book of Songs"
+  },
+  {
+    "id": "p0251",
+    "zh": "一清二楚",
+    "pinyin": "yī qīng èr chǔ",
+    "en": "Literally: Absolutely clear. True meaning: Perfectly understood.",
+    "origin": "Perfectly understood.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0252",
+    "zh": "一目了然",
+    "pinyin": "yī mù liǎo rán",
+    "en": "Literally: Understand at a glance. True meaning: Immediately obvious.",
+    "origin": "Immediately obvious.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0253",
+    "zh": "了如指掌",
+    "pinyin": "liǎo rú zhǐ zhǎng",
+    "en": "Literally: Know like the palm of one's hand. True meaning: Thoroughly familiar with.",
+    "origin": "Thoroughly familiar with.",
+    "source": "The Analects"
+  },
+  {
+    "id": "p0254",
+    "zh": "了然于胸",
+    "pinyin": "liǎo rán yú xiōng",
+    "en": "Literally: Clearly understood in one's heart. True meaning: Fully comprehended.",
+    "origin": "Fully comprehended.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0255",
+    "zh": "心中有数",
+    "pinyin": "xīn zhōng yǒu shù",
+    "en": "Literally: Know what one is doing. True meaning: Have a clear idea.",
+    "origin": "Have a clear idea.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0256",
+    "zh": "胸中有数",
+    "pinyin": "xiōng zhōng yǒu shù",
+    "en": "Literally: Have a plan in mind. True meaning: Know the situation well.",
+    "origin": "Know the situation well.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0257",
+    "zh": "胸有成竹",
+    "pinyin": "xiōng yǒu chéng zhú",
+    "en": "Literally: Have a ready-formed bamboo in mind. True meaning: Be fully prepared with a clear plan before taking action.",
+    "origin": "Song Dynasty painter Wen Tong said that when painting bamboo, one must have the complete image in mind before touching brush to paper. Used to describe being fully prepared with a clear plan before taking action.",
+    "source": "Su Shi's essay on Wen Tong"
+  },
+  {
+    "id": "p0258",
+    "zh": "稳操胜券",
+    "pinyin": "wěn cāo shèng quàn",
+    "en": "Literally: Hold the winning ticket. True meaning: Assured of victory.",
+    "origin": "Assured of victory.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0259",
+    "zh": "万无一失",
+    "pinyin": "wàn wú yī shī",
+    "en": "Literally: Absolutely safe. True meaning: No chance of failure.",
+    "origin": "No chance of failure.",
+    "source": "Han Shu"
+  },
+  {
+    "id": "p0260",
+    "zh": "十拿九稳",
+    "pinyin": "shí ná jiǔ wěn",
+    "en": "Literally: Nine out of ten certain. True meaning: Almost guaranteed.",
+    "origin": "Almost guaranteed.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0261",
+    "zh": "八九不离十",
+    "pinyin": "bā jiǔ bù lí shí",
+    "en": "Literally: Eight or nine out of ten. True meaning: Highly probable.",
+    "origin": "Highly probable.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0262",
+    "zh": "稳如泰山",
+    "pinyin": "wěn rú tài shān",
+    "en": "Literally: Stable as Mount Tai. True meaning: Unshakable and secure.",
+    "origin": "Unshakable and secure.",
+    "source": "Han Shu"
+  },
+  {
+    "id": "p0263",
+    "zh": "坚如磐石",
+    "pinyin": "jiān rú pán shí",
+    "en": "Literally: Firm as a rock. True meaning: Unwavering and solid.",
+    "origin": "Unwavering and solid.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0264",
+    "zh": "固若金汤",
+    "pinyin": "gù ruò jīn tāng",
+    "en": "Literally: As secure as metal and boiling water. True meaning: Impregnable defense.",
+    "origin": "Impregnable defense.",
+    "source": "Han Shu"
+  },
+  {
+    "id": "p0265",
+    "zh": "铜墙铁壁",
+    "pinyin": "tóng qiáng tiě bì",
+    "en": "Literally: Walls of copper and iron. True meaning: Impenetrable defense.",
+    "origin": "Impenetrable defense.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0266",
+    "zh": "坚不可摧",
+    "pinyin": "jiān bù kě cuī",
+    "en": "Literally: Indestructible. True meaning: Unbreakable strength.",
+    "origin": "Unbreakable strength.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0267",
+    "zh": "牢不可破",
+    "pinyin": "láo bù kě pò",
+    "en": "Literally: Unbreakable. True meaning: Firm and solid.",
+    "origin": "Firm and solid.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0268",
+    "zh": "坚定不移",
+    "pinyin": "jiān dìng bù yí",
+    "en": "Literally: Firm and unwavering. True meaning: Steadfast determination.",
+    "origin": "Steadfast determination.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0269",
+    "zh": "坚持不懈",
+    "pinyin": "jiān chí bù xiè",
+    "en": "Literally: Persist without giving up. True meaning: Unwavering perseverance.",
+    "origin": "Unwavering perseverance.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0270",
+    "zh": "锲而不舍",
+    "pinyin": "qiè ér bù shě",
+    "en": "Literally: Carve without stopping. True meaning: Persevere relentlessly.",
+    "origin": "Persevere relentlessly.",
+    "source": "Xunzi"
+  },
+  {
+    "id": "p0271",
+    "zh": "持之以恒",
+    "pinyin": "chí zhī yǐ héng",
+    "en": "Literally: Persevere with constancy. True meaning: Maintain consistent effort.",
+    "origin": "Maintain consistent effort.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0272",
+    "zh": "有始有终",
+    "pinyin": "yǒu shǐ yǒu zhōng",
+    "en": "Literally: Have a beginning and an end. True meaning: See things through to completion.",
+    "origin": "See things through to completion.",
+    "source": "The Analects"
+  },
+  {
+    "id": "p0273",
+    "zh": "善始善终",
+    "pinyin": "shàn shǐ shàn zhōng",
+    "en": "Literally: Good beginning and good ending. True meaning: Complete well what was started well.",
+    "origin": "Complete well what was started well.",
+    "source": "Zhuangzi"
+  },
+  {
+    "id": "p0274",
+    "zh": "全始全终",
+    "pinyin": "quán shǐ quán zhōng",
+    "en": "Literally: Complete from start to finish. True meaning: See through to the end.",
+    "origin": "See through to the end.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0275",
+    "zh": "自始至终",
+    "pinyin": "zì shǐ zhì zhōng",
+    "en": "Literally: From beginning to end. True meaning: Throughout the entire process.",
+    "origin": "Throughout the entire process.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0276",
+    "zh": "始终如一",
+    "pinyin": "shǐ zhōng rú yī",
+    "en": "Literally: Consistent from beginning to end. True meaning: Unwavering throughout.",
+    "origin": "Unwavering throughout.",
+    "source": "Xunzi"
+  },
+  {
+    "id": "p0277",
+    "zh": "一以贯之",
+    "pinyin": "yī yǐ guàn zhī",
+    "en": "Literally: Consistent principle throughout. True meaning: Maintain consistency.",
+    "origin": "Maintain consistency.",
+    "source": "The Analects"
+  },
+  {
+    "id": "p0278",
+    "zh": "一脉相承",
+    "pinyin": "yī mài xiāng chéng",
+    "en": "Literally: Passed down in one continuous line. True meaning: Continuous inheritance.",
+    "origin": "Continuous inheritance.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0279",
+    "zh": "一脉相通",
+    "pinyin": "yī mài xiāng tōng",
+    "en": "Literally: Connected in one line. True meaning: Inherently related.",
+    "origin": "Inherently related.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0280",
+    "zh": "息息相关",
+    "pinyin": "xī xī xiāng guān",
+    "en": "Literally: Closely related. True meaning: Intimately connected.",
+    "origin": "Intimately connected.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0281",
+    "zh": "唇齿相依",
+    "pinyin": "chún chǐ xiāng yī",
+    "en": "Literally: Lips and teeth depend on each other. True meaning: Mutually dependent.",
+    "origin": "Mutually dependent.",
+    "source": "Zuo Zhuan"
+  },
+  {
+    "id": "p0282",
+    "zh": "唇亡齿寒",
+    "pinyin": "chún wáng chǐ hán",
+    "en": "Literally: When the lips are gone, the teeth are cold. True meaning: Closely interdependent.",
+    "origin": "Closely interdependent.",
+    "source": "Zuo Zhuan"
+  },
+  {
+    "id": "p0283",
+    "zh": "相辅相成",
+    "pinyin": "xiāng fǔ xiāng chéng",
+    "en": "Literally: Complement each other. True meaning: Mutually reinforcing.",
+    "origin": "Mutually reinforcing.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0284",
+    "zh": "相得益彰",
+    "pinyin": "xiāng dé yì zhāng",
+    "en": "Literally: Complement and enhance each other. True meaning: Bring out the best in each other.",
+    "origin": "Bring out the best in each other.",
+    "source": "Han Shu"
+  },
+  {
+    "id": "p0285",
+    "zh": "珠联璧合",
+    "pinyin": "zhū lián bì hé",
+    "en": "Literally: Pearls and jade combined. True meaning: Perfect match.",
+    "origin": "Perfect match.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0286",
+    "zh": "天作之合",
+    "pinyin": "tiān zuò zhī hé",
+    "en": "Literally: A match made in heaven. True meaning: Perfect union.",
+    "origin": "Perfect union.",
+    "source": "Book of Songs"
+  },
+  {
+    "id": "p0287",
+    "zh": "天生一对",
+    "pinyin": "tiān shēng yī duì",
+    "en": "Literally: A heaven-made pair. True meaning: Natural match.",
+    "origin": "Natural match.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0288",
+    "zh": "郎才女貌",
+    "pinyin": "láng cái nǚ mào",
+    "en": "Literally: Talented man and beautiful woman. True meaning: Well-matched couple.",
+    "origin": "Well-matched couple.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0289",
+    "zh": "才子佳人",
+    "pinyin": "cái zǐ jiā rén",
+    "en": "Literally: Talented scholar and beautiful lady. True meaning: Ideal romantic couple.",
+    "origin": "Ideal romantic couple.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0290",
+    "zh": "琴瑟和鸣",
+    "pinyin": "qín sè hé míng",
+    "en": "Literally: Qin and se harmonize. True meaning: Marital harmony.",
+    "origin": "Marital harmony.",
+    "source": "Book of Songs"
+  },
+  {
+    "id": "p0291",
+    "zh": "举案齐眉",
+    "pinyin": "jǔ àn qí méi",
+    "en": "Literally: Raise the tray to eyebrow level. True meaning: Respectful marital relationship.",
+    "origin": "Respectful marital relationship.",
+    "source": "Book of the Later Han"
+  },
+  {
+    "id": "p0292",
+    "zh": "相敬如宾",
+    "pinyin": "xiāng jìng rú bīn",
+    "en": "Literally: Respect each other as guests. True meaning: Mutual respect in marriage.",
+    "origin": "Mutual respect in marriage.",
+    "source": "Zuo Zhuan"
+  },
+  {
+    "id": "p0293",
+    "zh": "白头偕老",
+    "pinyin": "bái tóu xié lǎo",
+    "en": "Literally: Grow old together. True meaning: Lifelong companionship.",
+    "origin": "Lifelong companionship.",
+    "source": "Book of Songs"
+  },
+  {
+    "id": "p0294",
+    "zh": "百年好合",
+    "pinyin": "bǎi nián hǎo hé",
+    "en": "Literally: A hundred years of harmony. True meaning: Lasting marital happiness.",
+    "origin": "Lasting marital happiness.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0295",
+    "zh": "夫唱妇随",
+    "pinyin": "fū chàng fù suí",
+    "en": "Literally: Husband leads, wife follows. True meaning: Harmonious marriage.",
+    "origin": "Harmonious marriage.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0296",
+    "zh": "比翼双飞",
+    "pinyin": "bǐ yì shuāng fēi",
+    "en": "Literally: Fly wing to wing. True meaning: Inseparable couple.",
+    "origin": "Inseparable couple.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0297",
+    "zh": "连理枝",
+    "pinyin": "lián lǐ zhī",
+    "en": "Literally: Intertwined branches. True meaning: Deep love between couples.",
+    "origin": "Deep love between couples.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0298",
+    "zh": "鸳鸯戏水",
+    "pinyin": "yuān yāng xì shuǐ",
+    "en": "Literally: Mandarin ducks playing in water. True meaning: Loving couple.",
+    "origin": "Loving couple.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0299",
+    "zh": "如胶似漆",
+    "pinyin": "rú jiāo sì qī",
+    "en": "Literally: Like glue and lacquer. True meaning: Inseparable relationship.",
+    "origin": "Inseparable relationship.",
+    "source": "Historical Records"
+  },
+  {
+    "id": "p0300",
+    "zh": "形影不离",
+    "pinyin": "xíng yǐng bù lí",
+    "en": "Literally: Inseparable like body and shadow. True meaning: Always together.",
+    "origin": "Always together.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0301",
+    "zh": "形影相随",
+    "pinyin": "xíng yǐng xiāng suí",
+    "en": "Literally: Body and shadow follow each other. True meaning: Constant companionship.",
+    "origin": "Constant companionship.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0302",
+    "zh": "寸步不离",
+    "pinyin": "cùn bù bù lí",
+    "en": "Literally: Not leave for a moment. True meaning: Stay close at all times.",
+    "origin": "Stay close at all times.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0303",
+    "zh": "寸步难行",
+    "pinyin": "cùn bù nán xíng",
+    "en": "Literally: Cannot move an inch. True meaning: Unable to proceed.",
+    "origin": "Unable to proceed.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0304",
+    "zh": "举步维艰",
+    "pinyin": "jǔ bù wéi jiān",
+    "en": "Literally: Every step is difficult. True meaning: Extremely challenging.",
+    "origin": "Extremely challenging.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0305",
+    "zh": "步履维艰",
+    "pinyin": "bù lǚ wéi jiān",
+    "en": "Literally: Walking with difficulty. True meaning: In dire straits.",
+    "origin": "In dire straits.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0306",
+    "zh": "进退两难",
+    "pinyin": "jìn tuì liǎng nán",
+    "en": "Literally: Difficult to advance or retreat. True meaning: In a dilemma.",
+    "origin": "In a dilemma.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0307",
+    "zh": "进退维谷",
+    "pinyin": "jìn tuì wéi gǔ",
+    "en": "Literally: Stuck between advance and retreat. True meaning: In a tight spot.",
+    "origin": "In a tight spot.",
+    "source": "Book of Songs"
+  },
+  {
+    "id": "p0308",
+    "zh": "左右为难",
+    "pinyin": "zuǒ yòu wéi nán",
+    "en": "Literally: Difficult either way. True meaning: Caught in a dilemma.",
+    "origin": "Caught in a dilemma.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0309",
+    "zh": "骑虎难下",
+    "pinyin": "qí hǔ nán xià",
+    "en": "Literally: Difficult to dismount from a tiger. True meaning: Committed to a dangerous course.",
+    "origin": "Committed to a dangerous course.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0310",
+    "zh": "欲罢不能",
+    "pinyin": "yù bà bù néng",
+    "en": "Literally: Want to stop but cannot. True meaning: Unable to quit.",
+    "origin": "Unable to quit.",
+    "source": "The Analects"
+  },
+  {
+    "id": "p0311",
+    "zh": "身不由己",
+    "pinyin": "shēn bù yóu jǐ",
+    "en": "Literally: Body not controlled by oneself. True meaning: Not in control of one's situation.",
+    "origin": "Not in control of one's situation.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0312",
+    "zh": "情不自禁",
+    "pinyin": "qíng bù zì jīn",
+    "en": "Literally: Cannot help one's feelings. True meaning: Unable to control emotions.",
+    "origin": "Unable to control emotions.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0313",
+    "zh": "不由自主",
+    "pinyin": "bù yóu zì zhǔ",
+    "en": "Literally: Not of one's own volition. True meaning: Involuntary action.",
+    "origin": "Involuntary action.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0314",
+    "zh": "鬼使神差",
+    "pinyin": "guǐ shǐ shén chāi",
+    "en": "Literally: As if directed by ghosts and gods. True meaning: Inexplicably compelled.",
+    "origin": "Inexplicably compelled.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0315",
+    "zh": "阴差阳错",
+    "pinyin": "yīn chā yáng cuò",
+    "en": "Literally: By a strange coincidence. True meaning: Accidental mix-up.",
+    "origin": "Accidental mix-up.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0316",
+    "zh": "歪打正着",
+    "pinyin": "wāi dǎ zhèng zháo",
+    "en": "Literally: A crooked shot hitting the mark. True meaning: Accidentally successful.",
+    "origin": "Accidentally successful.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0317",
+    "zh": "无心插柳柳成荫",
+    "pinyin": "wú xīn chā liǔ liǔ chéng yīn",
+    "en": "Literally: Unintentionally plant a willow that grows into shade. True meaning: Unexpected success.",
+    "origin": "Unexpected success.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0318",
+    "zh": "有心栽花花不开",
+    "pinyin": "yǒu xīn zāi huā huā bù kāi",
+    "en": "Literally: Deliberately plant flowers that don't bloom. True meaning: Intended efforts fail.",
+    "origin": "Intended efforts fail.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0319",
+    "zh": "事与愿违",
+    "pinyin": "shì yǔ yuàn wéi",
+    "en": "Literally: Things turn out contrary to one's wishes. True meaning: Expectations not met.",
+    "origin": "Expectations not met.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0320",
+    "zh": "适得其反",
+    "pinyin": "shì dé qí fǎn",
+    "en": "Literally: Achieve the opposite effect. True meaning: Backfire.",
+    "origin": "Backfire.",
+    "source": "Wei Shu"
+  },
+  {
+    "id": "p0321",
+    "zh": "弄巧成拙",
+    "pinyin": "nòng qiǎo chéng zhuō",
+    "en": "Literally: Trying to be clever but acting stupidly. True meaning: Overreaching leads to failure.",
+    "origin": "Overreaching leads to failure.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0322",
+    "zh": "画蛇添足",
+    "pinyin": "huà shé tiān zú",
+    "en": "Literally: Draw a snake and add feet. True meaning: Ruin something by adding unnecessary details.",
+    "origin": "Ruin something by adding unnecessary details.",
+    "source": "Zhanguo Ce"
+  },
+  {
+    "id": "p0323",
+    "zh": "多此一举",
+    "pinyin": "duō cǐ yī jǔ",
+    "en": "Literally: One superfluous action. True meaning: Unnecessary effort.",
+    "origin": "Unnecessary effort.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0324",
+    "zh": "节外生枝",
+    "pinyin": "jié wài shēng zhī",
+    "en": "Literally: Grow extra branches. True meaning: Create complications.",
+    "origin": "Create complications.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0325",
+    "zh": "横生枝节",
+    "pinyin": "héng shēng zhī jié",
+    "en": "Literally: Create unexpected complications. True meaning: Unforeseen problems arise.",
+    "origin": "Unforeseen problems arise.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0326",
+    "zh": "无事生非",
+    "pinyin": "wú shì shēng fēi",
+    "en": "Literally: Create trouble out of nothing. True meaning: Stir up problems unnecessarily.",
+    "origin": "Stir up problems unnecessarily.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0327",
+    "zh": "惹是生非",
+    "pinyin": "rě shì shēng fēi",
+    "en": "Literally: Provoke trouble. True meaning: Stir up conflict.",
+    "origin": "Stir up conflict.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0328",
+    "zh": "无风不起浪",
+    "pinyin": "wú fēng bù qǐ làng",
+    "en": "Literally: No waves without wind. True meaning: There's no smoke without fire.",
+    "origin": "There's no smoke without fire.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0329",
+    "zh": "无风三尺浪",
+    "pinyin": "wú fēng sān chǐ làng",
+    "en": "Literally: Three-foot waves even without wind. True meaning: Trouble even in calm times.",
+    "origin": "Trouble even in calm times.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0330",
+    "zh": "一波未平一波又起",
+    "pinyin": "yī bō wèi píng yī bō yòu qǐ",
+    "en": "Literally: One wave barely settled, another rises. True meaning: One problem after another.",
+    "origin": "One problem after another.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0331",
+    "zh": "祸不单行",
+    "pinyin": "huò bù dān xíng",
+    "en": "Literally: Misfortunes never come singly. True meaning: Bad luck comes in groups.",
+    "origin": "Bad luck comes in groups.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0332",
+    "zh": "福无双至",
+    "pinyin": "fú wú shuāng zhì",
+    "en": "Literally: Good fortune seldom comes in pairs. True meaning: Blessings are rare.",
+    "origin": "Blessings are rare.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0333",
+    "zh": "雪上加霜",
+    "pinyin": "xuě shàng jiā shuāng",
+    "en": "Literally: Add frost to snow. True meaning: Make bad situation worse.",
+    "origin": "Make bad situation worse.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0334",
+    "zh": "雪中送炭",
+    "pinyin": "xuě zhōng sòng tàn",
+    "en": "Literally: Send charcoal in snowy weather. True meaning: Help in time of need.",
+    "origin": "Help in time of need.",
+    "source": "Song Dynasty literature"
+  },
+  {
+    "id": "p0335",
+    "zh": "锦上添花",
+    "pinyin": "jǐn shàng tiān huā",
+    "en": "Literally: Add flowers to brocade. True meaning: Make something good even better.",
+    "origin": "Make something good even better.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0336",
+    "zh": "火上浇油",
+    "pinyin": "huǒ shàng jiāo yóu",
+    "en": "Literally: Pour oil on fire. True meaning: Aggravate a situation.",
+    "origin": "Aggravate a situation.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0337",
+    "zh": "火中取栗",
+    "pinyin": "huǒ zhōng qǔ lì",
+    "en": "Literally: Take chestnuts from fire. True meaning: Take risks for others' benefit.",
+    "origin": "Take risks for others' benefit.",
+    "source": "La Fontaine's Fables"
+  },
+  {
+    "id": "p0338",
+    "zh": "刀山火海",
+    "pinyin": "dāo shān huǒ hǎi",
+    "en": "Literally: Mountain of swords and sea of fire. True meaning: Extreme danger.",
+    "origin": "Extreme danger.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0339",
+    "zh": "水深火热",
+    "pinyin": "shuǐ shēn huǒ rè",
+    "en": "Literally: Deep water and hot fire. True meaning: Dire straits; extreme suffering.",
+    "origin": "Dire straits; extreme suffering.",
+    "source": "Mencius"
+  },
+  {
+    "id": "p0340",
+    "zh": "水火不容",
+    "pinyin": "shuǐ huǒ bù róng",
+    "en": "Literally: Water and fire don't mix. True meaning: Irreconcilable differences.",
+    "origin": "Irreconcilable differences.",
+    "source": "Han Shu"
+  },
+  {
+    "id": "p0341",
+    "zh": "水火无情",
+    "pinyin": "shuǐ huǒ wú qíng",
+    "en": "Literally: Water and fire show no mercy. True meaning: Natural disasters are ruthless.",
+    "origin": "Natural disasters are ruthless.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0342",
+    "zh": "水到渠成",
+    "pinyin": "shuǐ dào qú chéng",
+    "en": "Literally: When water flows, a channel forms. True meaning: Things happen naturally when conditions are right.",
+    "origin": "Things happen naturally when conditions are right.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0343",
+    "zh": "瓜熟蒂落",
+    "pinyin": "guā shú dì luò",
+    "en": "Literally: When the melon is ripe, it falls. True meaning: Things happen at the right time.",
+    "origin": "Things happen at the right time.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0344",
+    "zh": "水滴石穿",
+    "pinyin": "shuǐ dī shí chuān",
+    "en": "Literally: Dripping water penetrates stone. True meaning: Persistence achieves the impossible.",
+    "origin": "Persistence achieves the impossible.",
+    "source": "Han Shu"
+  },
+  {
+    "id": "p0345",
+    "zh": "绳锯木断",
+    "pinyin": "shéng jù mù duàn",
+    "en": "Literally: A rope saw cuts through wood. True meaning: Persistence overcomes obstacles.",
+    "origin": "Persistence overcomes obstacles.",
+    "source": "Han Shu"
+  },
+  {
+    "id": "p0346",
+    "zh": "铁杵磨成针",
+    "pinyin": "tiě chǔ mó chéng zhēn",
+    "en": "Literally: An iron rod ground into a needle. True meaning: Perseverance achieves anything.",
+    "origin": "Perseverance achieves anything.",
+    "source": "Traditional tale"
+  },
+  {
+    "id": "p0347",
+    "zh": "磨杵成针",
+    "pinyin": "mó chǔ chéng zhēn",
+    "en": "Literally: Grind a pestle into a needle. True meaning: Patient effort brings success.",
+    "origin": "Patient effort brings success.",
+    "source": "Traditional tale"
+  },
+  {
+    "id": "p0348",
+    "zh": "积少成多",
+    "pinyin": "jī shǎo chéng duō",
+    "en": "Literally: Little by little adds up. True meaning: Small amounts accumulate.",
+    "origin": "Small amounts accumulate.",
+    "source": "Han Shu"
+  },
+  {
+    "id": "p0349",
+    "zh": "集腋成裘",
+    "pinyin": "jí yè chéng qiú",
+    "en": "Literally: Collect fur under the arms to make a coat. True meaning: Many little things make something big.",
+    "origin": "Many little things make something big.",
+    "source": "Master Zhuang"
+  },
+  {
+    "id": "p0350",
+    "zh": "聚沙成塔",
+    "pinyin": "jù shā chéng tǎ",
+    "en": "Literally: Gather sand to make a tower. True meaning: Small contributions build great things.",
+    "origin": "Small contributions build great things.",
+    "source": "Buddhist scripture"
+  },
+  {
+    "id": "p0351",
+    "zh": "众志成城",
+    "pinyin": "zhòng zhì chéng chéng",
+    "en": "Literally: United wills form a fortress. True meaning: Unity is strength.",
+    "origin": "Unity is strength.",
+    "source": "Zuo Zhuan"
+  },
+  {
+    "id": "p0352",
+    "zh": "众人拾柴火焰高",
+    "pinyin": "zhòng rén shí chái huǒ yàn gāo",
+    "en": "Literally: Many hands gather firewood, flames rise high. True meaning: Collective effort achieves more.",
+    "origin": "Collective effort achieves more.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0353",
+    "zh": "团结就是力量",
+    "pinyin": "tuán jié jiù shì lì liàng",
+    "en": "Literally: Unity is strength. True meaning: Together we are stronger.",
+    "origin": "Together we are stronger.",
+    "source": "Modern expression"
+  },
+  {
+    "id": "p0354",
+    "zh": "人心齐泰山移",
+    "pinyin": "rén xīn qí tài shān yí",
+    "en": "Literally: When hearts unite, even Mount Tai can be moved. True meaning: Unity achieves the impossible.",
+    "origin": "Unity achieves the impossible.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0355",
+    "zh": "一根筷子易折断十根筷子折不断",
+    "pinyin": "yī gēn kuài zi yì zhé duàn shí gēn kuài zi zhé bù duàn",
+    "en": "Literally: One chopstick breaks easily, ten don't. True meaning: Strength in numbers.",
+    "origin": "Strength in numbers.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0356",
+    "zh": "三个臭皮匠赛过诸葛亮",
+    "pinyin": "sān gè chòu pí jiàng sài guò zhū gě liàng",
+    "en": "Literally: Three cobblers equal one Zhuge Liang. True meaning: Collective wisdom surpasses individual genius.",
+    "origin": "Collective wisdom surpasses individual genius.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0357",
+    "zh": "人多力量大",
+    "pinyin": "rén duō lì liàng dà",
+    "en": "Literally: Many people, great strength. True meaning: Numbers bring power.",
+    "origin": "Numbers bring power.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0358",
+    "zh": "人多势众",
+    "pinyin": "rén duō shì zhòng",
+    "en": "Literally: Strength in numbers. True meaning: Large group has power.",
+    "origin": "Large group has power.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0359",
+    "zh": "人山人海",
+    "pinyin": "rén shān rén hǎi",
+    "en": "Literally: Mountain and sea of people. True meaning: Huge crowd.",
+    "origin": "Huge crowd.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0360",
+    "zh": "摩肩接踵",
+    "pinyin": "mó jiān jiē zhǒng",
+    "en": "Literally: Shoulders rubbing, heels touching. True meaning: Very crowded.",
+    "origin": "Very crowded.",
+    "source": "Zhuangzi"
+  },
+  {
+    "id": "p0361",
+    "zh": "门庭若市",
+    "pinyin": "mén tíng ruò shì",
+    "en": "Literally: Courtyard like a marketplace. True meaning: Very busy and popular.",
+    "origin": "Very busy and popular.",
+    "source": "Zhanguo Ce"
+  },
+  {
+    "id": "p0362",
+    "zh": "车水马龙",
+    "pinyin": "chē shuǐ mǎ lóng",
+    "en": "Literally: Carriages like flowing water, horses like dragons. True meaning: Busy traffic; bustling scene.",
+    "origin": "Busy traffic; bustling scene.",
+    "source": "Book of the Later Han"
+  },
+  {
+    "id": "p0363",
+    "zh": "络绎不绝",
+    "pinyin": "luò yì bù jué",
+    "en": "Literally: Continuous stream. True meaning: Endless flow of people.",
+    "origin": "Endless flow of people.",
+    "source": "Book of the Later Han"
+  },
+  {
+    "id": "p0364",
+    "zh": "川流不息",
+    "pinyin": "chuān liú bù xī",
+    "en": "Literally: Flow like a river without cease. True meaning: Continuous movement.",
+    "origin": "Continuous movement.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0365",
+    "zh": "纷至沓来",
+    "pinyin": "fēn zhì tà lái",
+    "en": "Literally: Come in succession. True meaning: Arrive one after another.",
+    "origin": "Arrive one after another.",
+    "source": "Song Dynasty literature"
+  },
+  {
+    "id": "p0366",
+    "zh": "接踵而至",
+    "pinyin": "jiē zhǒng ér zhì",
+    "en": "Literally: Arrive heel to heel. True meaning: Come in rapid succession.",
+    "origin": "Come in rapid succession.",
+    "source": "Zhuangzi"
+  },
+  {
+    "id": "p0367",
+    "zh": "源源不断",
+    "pinyin": "yuán yuán bù duàn",
+    "en": "Literally: Continuous stream from the source. True meaning: Unending supply.",
+    "origin": "Unending supply.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0368",
+    "zh": "滔滔不绝",
+    "pinyin": "tāo tāo bù jué",
+    "en": "Literally: Flow on and on. True meaning: Talk endlessly.",
+    "origin": "Talk endlessly.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0369",
+    "zh": "口若悬河",
+    "pinyin": "kǒu ruò xuán hé",
+    "en": "Literally: Mouth like a hanging river. True meaning: Speak eloquently and fluently.",
+    "origin": "Speak eloquently and fluently.",
+    "source": "Jin Shu"
+  },
+  {
+    "id": "p0370",
+    "zh": "能说会道",
+    "pinyin": "néng shuō huì dào",
+    "en": "Literally: Good at speaking. True meaning: Eloquent and persuasive.",
+    "origin": "Eloquent and persuasive.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0371",
+    "zh": "能言善辩",
+    "pinyin": "néng yán shàn biàn",
+    "en": "Literally: Skilled in speaking and debating. True meaning: Articulate and persuasive.",
+    "origin": "Articulate and persuasive.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0372",
+    "zh": "巧舌如簧",
+    "pinyin": "qiǎo shé rú huáng",
+    "en": "Literally: Clever tongue like a reed. True meaning: Smooth talker.",
+    "origin": "Smooth talker.",
+    "source": "Book of Songs"
+  },
+  {
+    "id": "p0373",
+    "zh": "伶牙俐齿",
+    "pinyin": "líng yá lì chǐ",
+    "en": "Literally: Sharp teeth and clever mouth. True meaning: Quick-witted in speech.",
+    "origin": "Quick-witted in speech.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0374",
+    "zh": "出口成章",
+    "pinyin": "chū kǒu chéng zhāng",
+    "en": "Literally: Words form chapters. True meaning: Speak eloquently without preparation.",
+    "origin": "Speak eloquently without preparation.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0375",
+    "zh": "妙语连珠",
+    "pinyin": "miào yǔ lián zhū",
+    "en": "Literally: Wonderful words like a string of pearls. True meaning: Witty and eloquent speech.",
+    "origin": "Witty and eloquent speech.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0376",
+    "zh": "字字珠玑",
+    "pinyin": "zì zì zhū jī",
+    "en": "Literally: Every word is a pearl. True meaning: Precious and meaningful words.",
+    "origin": "Precious and meaningful words.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0377",
+    "zh": "一字千金",
+    "pinyin": "yī zì qiān jīn",
+    "en": "Literally: One word worth a thousand gold. True meaning: Precious writing.",
+    "origin": "Precious writing.",
+    "source": "Historical Records"
+  },
+  {
+    "id": "p0378",
+    "zh": "一言九鼎",
+    "pinyin": "yī yán jiǔ dǐng",
+    "en": "Literally: One word carries the weight of nine tripods. True meaning: Words of great authority.",
+    "origin": "Words of great authority.",
+    "source": "Historical Records"
+  },
+  {
+    "id": "p0379",
+    "zh": "一诺千金",
+    "pinyin": "yī nuò qiān jīn",
+    "en": "Literally: A promise worth a thousand gold. True meaning: Keep one's word faithfully.",
+    "origin": "Keep one's word faithfully.",
+    "source": "Historical Records"
+  },
+  {
+    "id": "p0380",
+    "zh": "言而有信",
+    "pinyin": "yán ér yǒu xìn",
+    "en": "Literally: Words are trustworthy. True meaning: Keep promises.",
+    "origin": "Keep promises.",
+    "source": "The Analects"
+  },
+  {
+    "id": "p0381",
+    "zh": "言出必行",
+    "pinyin": "yán chū bì xíng",
+    "en": "Literally: Words spoken must be acted upon. True meaning: Do what you say.",
+    "origin": "Do what you say.",
+    "source": "The Analects"
+  },
+  {
+    "id": "p0382",
+    "zh": "说到做到",
+    "pinyin": "shuō dào zuò dào",
+    "en": "Literally: Say it and do it. True meaning: Follow through on promises.",
+    "origin": "Follow through on promises.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0383",
+    "zh": "信守承诺",
+    "pinyin": "xìn shǒu chéng nuò",
+    "en": "Literally: Keep one's promise. True meaning: Honor commitments.",
+    "origin": "Honor commitments.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0384",
+    "zh": "一言为定",
+    "pinyin": "yī yán wéi dìng",
+    "en": "Literally: It's settled with one word. True meaning: Finalize with a verbal agreement.",
+    "origin": "Finalize with a verbal agreement.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0385",
+    "zh": "君子一言驷马难追",
+    "pinyin": "jūn zǐ yī yán sì mǎ nán zhuī",
+    "en": "Literally: A gentleman's word cannot be caught by four horses. True meaning: A promise cannot be taken back.",
+    "origin": "A promise cannot be taken back.",
+    "source": "The Analects"
+  },
+  {
+    "id": "p0386",
+    "zh": "驷马难追",
+    "pinyin": "sì mǎ nán zhuī",
+    "en": "Literally: Four horses cannot catch up. True meaning: Words cannot be taken back.",
+    "origin": "Words cannot be taken back.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0387",
+    "zh": "覆水难收",
+    "pinyin": "fù shuǐ nán shōu",
+    "en": "Literally: Spilt water is hard to recover. True meaning: What's done cannot be undone.",
+    "origin": "What's done cannot be undone.",
+    "source": "Traditional tale"
+  },
+  {
+    "id": "p0388",
+    "zh": "木已成舟",
+    "pinyin": "mù yǐ chéng zhōu",
+    "en": "Literally: The wood is already a boat. True meaning: What's done is done.",
+    "origin": "What's done is done.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0389",
+    "zh": "生米煮成熟饭",
+    "pinyin": "shēng mǐ zhǔ chéng shú fàn",
+    "en": "Literally: Raw rice cooked into cooked rice. True meaning: Fait accompli.",
+    "origin": "Fait accompli.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0390",
+    "zh": "铁板钉钉",
+    "pinyin": "tiě bǎn dìng dīng",
+    "en": "Literally: Nails driven into iron board. True meaning: Absolutely certain.",
+    "origin": "Absolutely certain.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0391",
+    "zh": "板上钉钉",
+    "pinyin": "bǎn shàng dìng dīng",
+    "en": "Literally: Nails on the board. True meaning: Settled and certain.",
+    "origin": "Settled and certain.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0392",
+    "zh": "千真万确",
+    "pinyin": "qiān zhēn wàn què",
+    "en": "Literally: Absolutely true. True meaning: Completely certain.",
+    "origin": "Completely certain.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0393",
+    "zh": "确凿无疑",
+    "pinyin": "què záo wú yí",
+    "en": "Literally: Conclusive and without doubt. True meaning: Absolutely certain.",
+    "origin": "Absolutely certain.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0394",
+    "zh": "毋庸置疑",
+    "pinyin": "wú yōng zhì yí",
+    "en": "Literally: Beyond doubt. True meaning: Unquestionable.",
+    "origin": "Unquestionable.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0395",
+    "zh": "毫无疑问",
+    "pinyin": "háo wú yí wèn",
+    "en": "Literally: Without any doubt. True meaning: Absolutely certain.",
+    "origin": "Absolutely certain.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0396",
+    "zh": "不容置疑",
+    "pinyin": "bù róng zhì yí",
+    "en": "Literally: Allow no doubt. True meaning: Indisputable.",
+    "origin": "Indisputable.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0397",
+    "zh": "无可置疑",
+    "pinyin": "wú kě zhì yí",
+    "en": "Literally: No room for doubt. True meaning: Unquestionable.",
+    "origin": "Unquestionable.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0398",
+    "zh": "理所当然",
+    "pinyin": "lǐ suǒ dāng rán",
+    "en": "Literally: Naturally so. True meaning: As it should be.",
+    "origin": "As it should be.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0399",
+    "zh": "天经地义",
+    "pinyin": "tiān jīng dì yì",
+    "en": "Literally: Law of heaven and principle of earth. True meaning: Unquestionable truth.",
+    "origin": "Unquestionable truth.",
+    "source": "Traditional expression"
+  },
+  {
+    "id": "p0400",
+    "zh": "天理昭昭",
+    "pinyin": "tiān lǐ zhāo zhāo",
+    "en": "Literally: The heavenly principle is clear. True meaning: Justice is evident.",
+    "origin": "Justice is evident.",
+    "source": "Traditional expression"
+  }
+]
