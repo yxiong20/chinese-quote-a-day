@@ -1,28 +1,20 @@
 export const APP_NAME = "Chinese Quote a Day";
 
 /**
- * Optional remote update.
- * Leave empty to disable remote fetching.
- *
- * Expected JSON at this URL:
- *  { "version": 1, "dataUrl": "https://example.com/proverbs.json" }
+ * GitHub source configuration for remote proverb updates.
+ * The app uses GitHub Contents API to fetch files from this repository.
  */
-export const REMOTE_MANIFEST_URL = "";
-
-/**
- * S3 configuration for remote updates.
- * Fill in when you're ready to enable cloud-hosted proverb updates.
- */
-export const S3_CONFIG = {
-  bucket: "",           // e.g. "my-proverbs-bucket"
-  region: "",           // e.g. "us-east-1"
-  cloudFrontDomain: "", // e.g. "d1234abcd.cloudfront.net"
+export const GITHUB_SOURCE = {
+  owner: "yxiong20",
+  repo: "chinese-quote-a-day",
+  ref: "main",
+  manifestPath: "src/data/manifest.json",
 };
 
 /**
- * Example manifest URL pattern (when configured):
- * https://${S3_CONFIG.cloudFrontDomain}/manifest.json
- *
- * Example data URL pattern:
- * https://${S3_CONFIG.cloudFrontDomain}/proverbs.json
+ * Expected manifest JSON shape:
+ * {
+ *   "version": "1.0.0",
+ *   "bundlePath": "src/data/proverbs.bundled.json"
+ * }
  */

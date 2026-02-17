@@ -9,6 +9,8 @@ export type Proverb = {
 };
 
 export type RemoteManifest = {
-  version: number;   // increment when publishing new dataset
-  dataUrl: string;   // URL to the proverbs JSON array
+  version: number | string; // increment when publishing new dataset
+  bundlePath?: string;      // repository path to the JSON array file
+  dataUrl?: string;         // optional direct URL to the proverbs JSON array
+  sha256?: string;          // optional SHA-256 of bundle JSON text
 };
