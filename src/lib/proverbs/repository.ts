@@ -13,6 +13,7 @@ const STORAGE_KEYS = {
 };
 
 const CACHE_FILE_NAME = "proverbs.cached.json";
+const CACHE_TEMP_FILE_NAME = "proverbs.cached.tmp.json";
 
 type GitHubContentResponse = {
   sha: string;
@@ -57,11 +58,15 @@ async function readCachedIfExists(): Promise<Proverb[] | null> {
   const info = await FileSystem.getInfoAsync(path);
   if (!info.exists) return null;
 
-  const text = await FileSystem.readAsStringAsync(path, {
-    encoding: FileSystem.EncodingType.UTF8,
-  });
-  const json = JSON.parse(text);
-  return assertProverbsShape(json);
+  try {
+    const text = await FileSystem.readAsStringAsync(path, {
+      encoding: FileSystem.EncodingType.UTF8,
+    });
+    const json = JSON.parse(text);
+    return assertProverbsShape(json);
+  } catch {
+    return null;
+  }
 }
 
 export async function loadProverbs(): Promise<{
@@ -225,9 +230,16 @@ export async function tryRemoteUpdate(): Promise<
     }
 
     const targetPath = dir + CACHE_FILE_NAME;
-    await FileSystem.writeAsStringAsync(targetPath, JSON.stringify(proverbs), {
+    const tempPath = dir + CACHE_TEMP_FILE_NAME;
+    await FileSystem.writeAsStringAsync(tempPath, JSON.stringify(proverbs), {
       encoding: FileSystem.EncodingType.UTF8,
     });
+
+    const existing = await FileSystem.getInfoAsync(targetPath);
+    if (existing.exists) {
+      await FileSystem.deleteAsync(targetPath, { idempotent: true });
+    }
+    await FileSystem.moveAsync({ from: tempPath, to: targetPath });
 
     const cacheFingerprint = contentSha256;
 

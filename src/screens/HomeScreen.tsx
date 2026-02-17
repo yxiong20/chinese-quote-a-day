@@ -7,12 +7,18 @@ import {
   Text,
   View,
 } from "react-native";
+import AsyncStorage from "@react-native-async-storage/async-storage";
 import { APP_NAME } from "../config";
 import { getOrCreateInstallSeed } from "../lib/seed";
 import { loadProverbs, tryRemoteUpdate } from "../lib/proverbs/repository";
 import type { Proverb } from "../lib/proverbs/types";
 import ProverbCard from "../ui/ProverbCard";
 import { getColorScheme } from "../lib/colors";
+
+const REMOTE_UPDATE_LAST_CHECK_KEY = "proverbs.remote.lastCheckAt";
+const REMOTE_UPDATE_MIN_DELAY_MS = 30_000;
+const REMOTE_UPDATE_MAX_DELAY_MS = 5 * 60_000;
+const REMOTE_UPDATE_COOLDOWN_MS = 12 * 60 * 60_000;
 
 type LoadState =
   | { status: "loading" }
@@ -41,21 +47,63 @@ export default function HomeScreen() {
     return getColorScheme(currentIndex);
   }, [state, currentIndex]);
 
+  async function loadLocalData(resetIndex = false) {
+    if (resetIndex) setCurrentIndex(0);
+    try {
+      const installSeed = await getOrCreateInstallSeed();
+      const loaded = await loadProverbs();
+      setState({ status: "ready", ...loaded, installSeed });
+    } catch (e: any) {
+      setState({ status: "error", message: e?.message ?? String(e) });
+    }
+  }
+
+  async function shouldRunScheduledUpdateCheck(): Promise<boolean> {
+    const lastCheckStr = await AsyncStorage.getItem(REMOTE_UPDATE_LAST_CHECK_KEY);
+    if (!lastCheckStr) return true;
+    const lastCheckAt = Number(lastCheckStr);
+    if (!Number.isFinite(lastCheckAt)) return true;
+    return Date.now() - lastCheckAt >= REMOTE_UPDATE_COOLDOWN_MS;
+  }
+
+  async function runUpdateCheck(options?: {
+    force?: boolean;
+    showNoUpdateMessage?: boolean;
+  }): Promise<{ updated: boolean }> {
+    const force = options?.force ?? false;
+    const showNoUpdateMessage = options?.showNoUpdateMessage ?? false;
+
+    if (!force) {
+      const shouldCheck = await shouldRunScheduledUpdateCheck();
+      if (!shouldCheck) {
+        return { updated: false };
+      }
+    }
+
+    await AsyncStorage.setItem(
+      REMOTE_UPDATE_LAST_CHECK_KEY,
+      String(Date.now())
+    );
+
+    const upd = await tryRemoteUpdate();
+    if (upd.updated) {
+      setUpdateMsg(`Updated to v${upd.version} (${upd.count} proverbs)`);
+      await loadLocalData();
+      return { updated: true };
+    }
+
+    if (showNoUpdateMessage) {
+      setUpdateMsg(upd.reason);
+    }
+    return { updated: false };
+  }
+
   async function refreshAll() {
     setUpdateMsg("");
     setCurrentIndex(0);
     try {
-      const installSeed = await getOrCreateInstallSeed();
-
-      const upd = await tryRemoteUpdate();
-      setUpdateMsg(
-        upd.updated
-          ? `Updated to v${upd.version} (${upd.count} proverbs)`
-          : upd.reason
-      );
-
-      const loaded = await loadProverbs();
-      setState({ status: "ready", ...loaded, installSeed });
+      await loadLocalData();
+      await runUpdateCheck({ force: true, showNoUpdateMessage: true });
     } catch (e: any) {
       setState({ status: "error", message: e?.message ?? String(e) });
     }
@@ -70,7 +118,22 @@ export default function HomeScreen() {
   }
 
   useEffect(() => {
-    refreshAll();
+    loadLocalData(true);
+
+    const delayMs =
+      Math.floor(
+        Math.random() * (REMOTE_UPDATE_MAX_DELAY_MS - REMOTE_UPDATE_MIN_DELAY_MS + 1)
+      ) + REMOTE_UPDATE_MIN_DELAY_MS;
+
+    const timer = setTimeout(() => {
+      runUpdateCheck({ force: false, showNoUpdateMessage: false }).catch(
+        () => {
+          // non-fatal: app continues using cached/bundled data
+        }
+      );
+    }, delayMs);
+
+    return () => clearTimeout(timer);
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 

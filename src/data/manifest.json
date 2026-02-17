@@ -1,4 +1,5 @@
 {
   "version": "1.0.0",
-  "bundlePath": "src/data/proverbs.bundled.json"
+  "bundlePath": "src/data/proverbs.bundled.json",
+  "sha256": "5c50d9b70fe8593eca95123d0ab93370d4dccfe6a52ef13da4d64dbc629deacc"
 }

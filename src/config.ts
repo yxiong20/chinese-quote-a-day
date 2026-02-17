@@ -15,6 +15,7 @@ export const GITHUB_SOURCE = {
  * Expected manifest JSON shape:
  * {
  *   "version": "1.0.0",
- *   "bundlePath": "src/data/proverbs.bundled.json"
+ *   "bundlePath": "src/data/proverbs.bundled.json",
+ *   "sha256": "optional bundle sha256"
  * }
  */
