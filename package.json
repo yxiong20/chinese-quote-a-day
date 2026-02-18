@@ -10,7 +10,11 @@
     "web": "expo start --web",
     "gen:placeholders": "node scripts/generate-placeholder-proverbs.mjs",
     "validate:data": "node scripts/validate-proverbs.mjs",
-    "manifest:sha": "node scripts/update-manifest-sha.mjs"
+    "manifest:sha": "node scripts/update-manifest-sha.mjs",
+    "eas:build:ios": "npx --yes eas-cli@latest build --platform ios",
+    "eas:build:android": "npx --yes eas-cli@latest build --platform android",
+    "eas:submit:ios": "npx --yes eas-cli@latest submit --platform ios",
+    "eas:submit:android": "npx --yes eas-cli@latest submit --platform android"
   },
   "dependencies": {
     "@expo/ngrok": "^4.1.3",

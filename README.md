@@ -96,12 +96,31 @@ Manifest file (`src/data/manifest.json`):
 
 Build for app stores:
 ```bash
-npx eas build --platform ios
-npx eas build --platform android
+npm run eas:build:ios
+npm run eas:build:android
 ```
 
 Submit to stores:
 ```bash
-npx eas submit --platform ios
-npx eas submit --platform android
+npm run eas:submit:ios
+npm run eas:submit:android
+```
+
+If your npm registry mirrors packages, these scripts intentionally call `eas-cli` (not `eas`) to avoid `npx` resolving the wrong package.
+
+### Troubleshooting EAS CLI resolution
+
+If you see errors like `could not determine executable to run` and logs mention `pkgid eas@0.1.0`, your npm registry resolved `eas` instead of `eas-cli`.
+
+Use one-off fallback commands pinned to npmjs:
+
+```bash
+npx --yes --registry=https://registry.npmjs.org eas-cli@latest build --platform ios
+npx --yes --registry=https://registry.npmjs.org eas-cli@latest build --platform android
+```
+
+You can also verify the CLI directly:
+
+```bash
+npx --yes --registry=https://registry.npmjs.org eas-cli@latest --version
 ```
